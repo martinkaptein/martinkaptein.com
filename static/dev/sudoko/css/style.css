@@ -1,0 +1,190 @@
+
+/* For regular desktops*/
+@media only screen and (min-width: 1000px)
+{
+    /* The puzzle is centered in the middle of the page */
+    html, body
+    {
+        height: 100%;
+    }
+
+    .container
+    {
+        height: 100%;
+        width: 100%;
+    }
+}
+
+/* For smartphones */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px)
+{
+
+}
+
+/* For iPhone */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5)
+{
+
+}
+
+body
+{
+    padding: 0;
+    margin: 0;
+}
+
+h1
+{
+    text-align: center;
+    color: #0f3b5f;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.container > tbody > tr > td
+{
+    height: 100%;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.container > tbody > tr
+{
+    height: 100%;
+    width: 100%;
+}
+
+.game-board
+{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+/* styling all rows */
+
+/* styling all columns */
+.game-board > tbody > tr > td
+{
+    text-align: center;
+    font-size: 1.2em;
+    border: 1px solid black;
+}
+
+/* styling all input elements */
+.game-board > tbody > tr > td > input
+{
+    width: 1.5em;
+    border: 0;
+    height: 100%;
+    font-size: inherit;
+    text-align: center;
+    color: dodgerblue;
+}
+
+/* styling the block */
+
+.all-blocks > tr:nth-child(1) > td
+{
+    border-top: 2px solid black;
+}
+
+.all-blocks > tr:nth-child(9) > td
+{
+    border-bottom: 2px solid black;
+}
+
+.all-blocks > tr:nth-child(1) > td:nth-child(3),
+.all-blocks > tr:nth-child(2) > td:nth-child(3),
+.all-blocks > tr:nth-child(3) > td:nth-child(3),
+.all-blocks > tr:nth-child(1) > td:nth-child(6),
+.all-blocks > tr:nth-child(2) > td:nth-child(6),
+.all-blocks > tr:nth-child(3) > td:nth-child(6),
+.all-blocks > tr:nth-child(4) > td:nth-child(3),
+.all-blocks > tr:nth-child(5) > td:nth-child(3),
+.all-blocks > tr:nth-child(6) > td:nth-child(3),
+.all-blocks > tr:nth-child(4) > td:nth-child(6),
+.all-blocks > tr:nth-child(5) > td:nth-child(6),
+.all-blocks > tr:nth-child(6) > td:nth-child(6),
+.all-blocks > tr:nth-child(7) > td:nth-child(6),
+.all-blocks > tr:nth-child(8) > td:nth-child(3),
+.all-blocks > tr:nth-child(9) > td:nth-child(3),
+.all-blocks > tr:nth-child(7) > td:nth-child(3),
+.all-blocks > tr:nth-child(8) > td:nth-child(6),
+.all-blocks > tr:nth-child(9) > td:nth-child(6)
+{
+    border-right: 2px solid black;
+}
+
+.all-blocks > tr:nth-child(3) > td:nth-child(1),
+.all-blocks > tr:nth-child(3) > td:nth-child(2),
+.all-blocks > tr:nth-child(3) > td:nth-child(3),
+.all-blocks > tr:nth-child(3) > td:nth-child(4),
+.all-blocks > tr:nth-child(3) > td:nth-child(5),
+.all-blocks > tr:nth-child(3) > td:nth-child(6),
+.all-blocks > tr:nth-child(3) > td:nth-child(7),
+.all-blocks > tr:nth-child(3) > td:nth-child(8),
+.all-blocks > tr:nth-child(3) > td:nth-child(9),
+.all-blocks > tr:nth-child(6) > td:nth-child(1),
+.all-blocks > tr:nth-child(6) > td:nth-child(2),
+.all-blocks > tr:nth-child(6) > td:nth-child(3),
+.all-blocks > tr:nth-child(6) > td:nth-child(4),
+.all-blocks > tr:nth-child(6) > td:nth-child(5),
+.all-blocks > tr:nth-child(6) > td:nth-child(6),
+.all-blocks > tr:nth-child(6) > td:nth-child(7),
+.all-blocks > tr:nth-child(6) > td:nth-child(8),
+.all-blocks > tr:nth-child(6) > td:nth-child(9)
+{
+    border-bottom: 2px solid black;
+}
+
+/* Useful classes */
+
+.center-block
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.invalid-input
+{
+    color: red !important;
+}
+
+.solve-fail
+{
+    border-color: red;
+}
+
+.solve-success
+{
+    border-color: green;
+}
+
+.no-show
+{
+    display: none;
+}
+
+.error-msg,
+.success-msg,
+.info-msg
+{
+    font-size: 1.3em;
+    font-family: Helvetica Neue, Helvetica, Arial;
+    text-align: center;
+}
+
+.error-msg
+{
+    color: red;
+}
+
+.success-msg
+{
+    color: green;
+}
+
+.info-msg
+{
+    color: gray;
+}

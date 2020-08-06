@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html manifest="cache.manifest">
+<head>
+  <title>Offline Games</title>
+    <meta name="robots" content="noindex, nofollow" />
+    </head>
+    <body>
+    <center>
+        <h1>All of this stuff should work offline</h1>
+        <hr>
+        <h2>
+        <a href="2048/index.html">2048</a>
+        </h2>
+        <h2>
+        <a href="0hh1/index.html">0hh1</a>
+        </h2>
+        <h2>
+        <a href="0hn0/index.html">0hn0</a>
+        </h2>
+        <h2>
+        <a href="sudoko/index.html">sudoko</a>
+        </h2>
+        <h2>
+        <a href="brainer/index.html">brainer</a>
+        </h2>
+        <hr>
+        <h2>Status:</h2>
+        <h3 id="cachestatus"></h3>
+        <p>Refresh to check status again</p>
+    </center>
+    <script>
+    var appCache = window.applicationCache;
+    document.getElementById("cachestatus").innerHTML = appCache.status;
+
+        
+    </script>
+    
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<html>
+
+<head>
+    <script type="text/javascript">
+        function message() {
+            location.href = "sms:@martinkaptein&body=I have just saved your iPhone;) www.martinkaptein.github.io"
+
+        }
+
+        function reload() {
+
+            setTimeout(function () {
+                location.replace("/mail.html")
+            }, 100);
+        }
+    </script>
+
+</head>
+
+<body>
+
+    <script>
+        function start() {
+            message();
+        }
+        window.onload = start;
+    </script>
+
+</body>
+
+</html>

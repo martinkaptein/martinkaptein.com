@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Copy X times</title>    
+</head>
+<body>
+<center>
+<h2>Result:</h2>
+<textarea id="Output" style="width:250px;height:250px;"></textarea>    
+<script type="text/javascript">
+var confirm = confirm("Start programm?");
+if (confirm == true) {
+    var text = prompt("Please enter your text");
+    var x = parseInt(prompt("Copy how many times?"));
+    var separator = prompt("Enter separator char (default <break>)","\n")
+    var output = document.getElementById("Output");
+    
+    for (i = 0; i < x; i++) {
+        output.value += text+separator;
+        console.log(i);
+    }
+    
+} else {
+    history.back();
+}
+</script>
+</center>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Random string generator</title>      
+</head>
+<body>
+<center>
+<h1>Random string Generator</h1>
+<h4>By Martin Kaptein<br>@MartinKaptein (Instagram and Twitter)</h4>
+<br><br>
+<h3>How long should the string be?</h3>
+<h4>Enter the length here:</h4>
+<input type="number" id="UserInput"><br><br>
+<input type="button" value="Generate" onclick="start();"><br><br><br>
+<h2>Result:</h2>
+<textarea id="GeneratorOutput" style="width:250px;height:250px;"></textarea>
+<script type="text/javascript">
+function start () {
+    var DesiredStringLength;
+    DesiredStringLength = document.getElementById("UserInput").value;
+    DesiredStringLength = parseInt(DesiredStringLength);
+    function rand(length,current){
+    current = current ? current : '';
+    return length ? rand( --length , "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ".charAt( Math.floor( Math.random() * 62 ) ) + current ) : current;//bak 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    }
+    var result = rand(DesiredStringLength);
+    var PrintResult = document.getElementById("GeneratorOutput");
+    PrintResult.value = result;
+}
+
+    
+
+</script>
+
+</center>
+</body>
+</html>

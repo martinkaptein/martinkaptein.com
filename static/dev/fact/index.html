@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<head><title>Factorial</title></head>
+<body>
+<script type="text/javascript">
+//recursively!!!
+var input = parseInt(prompt("Enter integer "));
+
+function factorial (input) {
+    if (input == 1) {
+        return 1;
+    } else {
+        return input * factorial(input - 1);
+    }
+}
+
+alert(factorial(input));
+</script>   
+</body>
+</html>

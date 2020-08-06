@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Random number game</title>  
+<script type="text/javascript" src="script.js" defer></script>
+</head>
+<body>
+<center>
+<h1>Random number game</h1><br>
+<h2>The game:</h2>
+<h3>There is a number. It's bigger than 0 and smaller (or equal) 100.<br>You need to guess it!</h3><br>
+<h4>Enter number here:</h4>
+<input type="number" id="UserInput" onsubmit="start();">
+<input type="button" value="Try my luck!" onclick="start();">
+<h4>
+<p id="check"></p>
+<p>Score (less is better): <p id="tries"></p></p>
+</h4>
+<input type="button" value="New Game" onclick="NewGame();">
+</center> 
+</body>
+</html>

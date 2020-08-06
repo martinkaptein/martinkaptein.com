@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Metronome</title>
+<script type="text/javascript" src="metronome.js" defer></script>
+</head>
+<body>
+<center>
+<h1>Enter BPM and press "Start Metronome":</h1>
+<input type="number" id="bpm">
+<button id="start" onclick="beep();">Play sound (test)</button>
+<button id="start" onclick="repeater = setInterval(beep, bpm)">Start Metronome</button>
+<button id="stop" onclick="clearInterval(repeater)">Stop Metronome</button>
+<h2>Selected BPM: <p id="output"></p></h2>
+</center> 
+</body>
+</html>

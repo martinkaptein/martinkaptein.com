@@ -1,0 +1,25 @@
+<h3>{{ .Title }}</h3>
+<ul id="posts">
+	{{ range (.Paginator 14).Pages }}
+    <li>
+        <a href="{{ .Permalink }}">
+            {{- .Title -}}
+            <small><time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "Jan 2, 2006" }}</time></small>
+        </a>
+    </li>
+	{{ end }}
+<li>_</li>
+{{ with .Paginator.Prev }}
+<li>
+	<a href="{{ .URL }}">{{ $.Site.Params.stringPrevPage }}</a>
+</li>
+{{ end }}
+{{ with .Paginator.Next }}
+<li>
+	<a href="{{ .URL }}">{{ $.Site.Params.stringNextPage }}</a>
+</li>
+{{ end }}
+<li>
+{{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}
+</li>
+</ul>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Brain Trainer</title>   
+<!--Design for static text in the end:-->
+<style>
+body, input, textarea, select {
+	font-family: Arial,Helvetica,sans-serif;
+	padding: 20px 50px;
+}
+
+#main {
+	margin: 0 auto;
+	max-width: 900px;
+	text-align: left;
+}
+
+pre {
+	background-color: #eee;
+	border: 1px solid #999;
+	padding: 8px;
+	margin: 0px 20px;
+}
+
+code {
+	background-color: #eee;
+	border: 1px solid #999;
+	padding: 0px 2px;
+}
+
+</style>
+</head>
+<body>
+<!--Because script is in body, it will be executed on page load, no calling required.-->
+    
+    
+<!--Here comes the main programm -->
+<h1>
+<script type="text/javascript">
+//First, welcome message, and check whether to start in the first place >> with confirm()
+var z = confirm("Start Brain Trainer?\nPress 'Ok' to start or 'Cancel' to cancel.");
+    if (z == true) {
+        start();
+    } else {
+        //do nothing>>disappear>>user sees responsive static text
+    }
+//start
+//IDEA:> Player will be prompted with exercises x+x, x-x and x*x>> the operators will be chosen randomly, player will chose how many exercices he/she wants to solve (default 10)
+function start () {
+    //ask player for how many functions he/she wants to solve: (parseInt because a number is expected, in this case our programm does not check for NaN or, say, letters or something, which would, most likely cause a crash, so please keep in mind!)
+    var ExerciseCount = parseInt(prompt("How many exercises do you want to solve?\nPlease enter a number!\nDefault number is 10",10));
+    var ExercisesFinished = 0; //just declarin'
+    //launch first exercise
+    exercises();
+    //create a while loop inside another function, which calls the exercises given times, when finished, stop
+    function whileloop () { //not while loop anymore
+        ExercisesFinished++; //incriment each time this function is run
+        if (ExercisesFinished < ExerciseCount) {
+            exercises();
+        } else {
+            //do nothing>>disappear>>user sees responsive static text
+            document.writeln("I proudly attempted "+ExerciseCount+" Exercises.");
+        }
+    }
+    
+    function exercises () {
+        //here will be the exercises
+        //randomly select (kind) exercise:
+        //generate random number, then assign to 3 (because + - *)
+        var RandomlySelectedFunction = Math.floor(Math.random(0,1) * 2); //possible result: 0 , 1 , 2
+        //call apropriate function here:
+        if (RandomlySelectedFunction == 0) {
+            zero();
+        } else if (RandomlySelectedFunction == 1) {
+            one();
+        } else {     //only one possibility left!
+            two();
+        }
+    }
+
+        //plus exercise OR exercise zero
+        function zero () { //zero is plus or +
+            var a = Math.floor(Math.random(0,1) * 1000);//cann all be changed in the source
+            var b = Math.floor(Math.random(0,1) * 1000);
+            var c = parseInt(prompt(a+" + "+b+" = ?",""));
+            var d = a + b;
+            if (c == d) {
+                alert("You are right, the solution is ' "+d+" '.");
+                whileloop();
+            } else {
+                alert("Wrong! The right answer is ' "+d+" '.");
+                whileloop();
+            }         
+        }
+        
+        //minus exercise OR exercise one
+        function one () { //zero is minus or -
+            var a = Math.floor(Math.random(0,1) * 1000);//cann all be changed in the source
+            var b = Math.floor(Math.random(0,1) * 1000);
+            var c = parseInt(prompt(a+" - "+b+" = ?",""));
+            var d = a - b;
+            if (c == d) {
+                alert("You are right, the solution is ' "+d+" '.");
+                whileloop();
+            } else {
+                alert("Wrong! The right answer is ' "+d+" '.");
+                whileloop();
+            }       
+        }
+        
+        //multiply exercise OR exercise two
+        function two () { //zero is multiply or *
+            var a = Math.floor(Math.random(0,1) * 100);//cann all be changed in the source
+            var b = Math.floor(Math.random(0,1) * 10);
+            var c = parseInt(prompt(a+" x "+b+" = ?",""));
+            var d = a * b;
+            if (c == d) {
+                alert("You are right, the solution is ' "+d+" '.");
+                whileloop();
+            } else {
+                alert("Wrong! The right answer is ' "+d+" '.");
+                whileloop();
+            }          
+        }    
+}     
+    
+</script>
+</h1>
+<!--Main programm end-->  
+<!--Some responsive static text:   -->
+<br><br><br>
+<h2>
+Thank for playing!
+</h2>
+<br>
+<h3>
+Brain trainer by:<br><br>
+Martin Kaptein
+</h3>
+<br>
+<code>@MartinKaptein (Instagram and Twitter)</code>
+</body>
+</html>

@@ -1,0 +1,37 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Test</title>    
+</head>
+<body>
+<center>
+<br>
+<input type="button" value="Button" onclick="doStuff();">
+<script type="text/javascript">
+function doStuff () {
+        var output = document.getElementById("output");
+        var ArrayOutput = document.getElementById("ArrayOutput");
+        var counter = 0; //old
+        var array = new Array();
+        var ArrayLength;
+        while (counter < 99999) {
+            var waste = Math.floor(Math.random(0,1) * 9999999);
+            array.push(waste);
+            ArrayLength = array.length;
+            output.innerHTML = ArrayLength;
+            ArrayOutput.value = array;
+            counter++;
+        }
+    }
+
+    
+    
+</script>
+<h2>This is the array length:</h2>
+<h3><p id="output"></p></h3><br>
+<h2>This is the array:</h2><br>
+<textarea id="ArrayOutput" style="width:250px;height:250px;"></textarea>
+</center> 
+</body>
+</html>

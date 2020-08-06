@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sudoko</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="javascript/gamemodel.js"></script>
+    <script src="javascript/app.js"></script>
+    <script src="javascript/jquery-2.1.1.min.js"></script>
+</head>
+<body>
+
+<table class="container">
+    <tr>
+        <td>
+            <h1>Sudoku</h1><br>
+            <h1></h1>
+            <p class="info-msg">Press enter when done</p>
+            <p class="no-show error-msg">Bummer, the puzzle didn't get solved.</p>
+            <p class="no-show success-msg">Yay ! you solved it !</p>
+            <table class="game-board center-block">
+                <tbody class="all-blocks">
+                    
+                </tbody>
+                
+            </table>
+            <h1><a href="javascript:window.history.back()">Back</a></h1>
+        </td>
+        
+    </tr>
+</table>
+</body>
+<script type="text/javascript">
+
+
+    $(document).ready(function ()
+                      {
+                          Sudoko.app.StartUp();
+                      });
+</script>
+</html>

@@ -1,0 +1,47 @@
+<html>
+<head><title>Random number Game</title>
+<meta name="description" content="Random number Game">
+</head>
+<body>
+<script type="text/javascript" language="javascript">
+var z;
+z = confirm("Press 'OK' to start, 'Cancel' to Cancel.\nGuess a number between 0 and 100!");
+if (z == true) {
+var r;
+r = Math.floor(Math.random(0,1) * 100);
+input();
+function input () {
+var i;
+i = prompt("Input your guess (between 0 and 100) and press 'OK'.");
+i = parseInt(i); 
+if (i > r) {
+bigger();
+}
+else
+if (i < r) {
+smaller();
+}
+else
+if (i = r) {
+win();
+}
+}
+function bigger () {
+alert("Guess smaller");
+input();
+}
+function smaller () {
+alert("Guess bigger");
+input();
+}
+function win () {
+alert("You won!!!");
+location.reload();
+}
+}
+else {
+window.history.back();
+}
+</script>
+</body>
+</html>

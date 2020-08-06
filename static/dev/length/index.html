@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>String length calculator</title>       
+</head>
+<body>
+<center>
+<h1>String length calculator</h1><br>
+<h3>Input your string here:</h3>
+<textarea id="UserInput" style="width:250px;height:250px;"></textarea><br>
+<button onclick="calculateStringLength();">Calculate</button>
+<h4>
+<script type="text/javascript">
+function calculateStringLength() {
+    var UserInputJS = document.getElementById("UserInput").value;
+    var UserInputLength = UserInputJS.length;
+    alert("The length of the string is\n"+UserInputLength);
+    var element = document.getElementById("result");
+    element.innerHTML = 'The length of the string was<br>'+UserInputLength;
+}    
+</script>
+</h4>
+<br>
+<p id="result"></p>
+<h5>
+Programm written by Martin Kaptein.<br>
+@MartinKaptein (Instagram and Twitter)
+</h5>
+</center>        
+</body>
+</html>

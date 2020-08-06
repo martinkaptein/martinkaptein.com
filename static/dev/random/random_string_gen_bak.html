@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Random string generator</title>      
+</head>
+<body>
+<center>
+<h1>
+<script type="text/javascript">
+var start = confirm("Confirm start Random string generator!");
+if (start == true) {
+    var DesiredStringLength = parseInt(prompt("Enter the desired string length:\nDefault is 5.\n(Please enter a number)",5));
+    function rand(length,current){
+    current = current ? current : '';
+    return length ? rand( --length , "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ".charAt( Math.floor( Math.random() * 62 ) ) + current ) : current;//bak 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    }
+    var result = rand(DesiredStringLength);
+    prompt("Here's your result:\n"+result+"\nPressCTRL + C to copy to clipboard",result);
+    appEnd();
+} else {
+    appEnd();
+}
+function appEnd() {
+    var goBack = confirm("Go back to your previous page?");
+    if (goBack == true) {
+        window.history.back();
+    } else {
+        document.write('Thanks for using this app by Martin Kaptein!<br>Go here to visit his page:<br><a href="https://www.facebook.com/martin.kaptein">www.facebook.com/martin.kaptein</a>');
+    }
+    
+} 
+    
+
+</script>
+</h1>
+</center>
+</body>
+</html>

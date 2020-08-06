@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>HTML5 Noise and Binaural Beats Generator | PlayNoise.com</title>
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/>
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css"/>
+    <script type="text/javascript" src="js/loader.js"></script>
+   <script type="text/javascript">
+      $script("js/jquery.min.js", "jquery");
+      $script("js/main.js");
+    </script>
+  </head>
+  <body>
+	  <h1><a href="lite/">LITE</a></h1>
+    <header id="hd">
+     <div class="ui-helper-clearfix"></div>
+      <nav id="tn">
+     </nav>
+    </header>
+    <div id="pc">
+      <div id="ld">
+  <p>
+    <img id="ldr" alt="Please wait..." src="img/loading.gif" height="16" width="16" />
+    Loading player...
+  </p>
+  <div id="ldp" class="ui-helper-hidden"></div>
+</div>
+<noscript>
+  <div class="ui-state-error ui-corner-all sc">
+    <p>
+      <span class="left ui-icon ui-icon-alert"></span>
+      The player will not work because JavaScript is disabled in your browser.<br>
+      To continue, you can either :
+    </p>
+    <div class="ui-helper-clearfix"></div>
+    <ul>
+      <li>Or use the <a class="osl" title="Player for browsers with no JavaScript" href="lite">lite player</a></li>
+    </ul>
+  </div>
+</noscript>
+<div class="ui-helper-clearfix"></div>
+<div id="plc" class="ui-helper-hidden-accessible ui-corner-all">
+    <div class="ui-helper-clearfix"></div>
+    <div class="ui-widget-header ui-corner-all plgh">Standard Player<div id="plst"></div></div>
+    <select id="plss">
+      <optgroup label="Noises">
+        <option value="3">Brown Noise</option>
+        <option value="2">Pink Noise</option>
+        <option value="4">Grey Noise</option>
+        <option value="1">White Noise</option>
+      </optgroup>
+      <optgroup label="Binaural Beats">
+        <option value="5">Very Slow Binaural Beats</option>
+        <option value="6">Slow Binaural Beats</option>
+        <option value="7">Medium Binaural Beats</option>
+        <option value="8">Fast Binaural Beats</option>
+      </optgroup>
+    </select>
+  <div>
+    <button type="button" class="left" id="plbp"></button>
+    <button type="button" class="left" id="plbs"></button>
+    <div class="right" id="plsc">
+      <div class="left ui-icon ui-icon-volume-off"></div>
+      <div class="left" id="pls"></div>
+      <div class="left ui-icon ui-icon-volume-on"></div>
+    </div>
+    <div class="ui-helper-clearfix"></div>
+  </div>
+  <div class="ui-helper-hidden ui-widget-content ui-corner-all" id="plpo">
+    <p class="ui-widget-header ui-corner-all plpoh">
+      Options
+      <a class="sosl right plpoho" title="More information and help about theses options" href="/faq#options">help<span class="ui-icon ui-icon-help right"></span></a>    </p>
+    <div class="plpos">
+      <p class="ui-helper-clearfix">
+        <input type="checkbox" id="plovf"/>
+        <label for="plovf">Fade out volume</label>
+        <label id="plovfdl" class="ds" for="plovfd"><span class="ui-icon ui-icon-clock"></span>Timer: </label>
+        <input class="ui-state-default ui-state-disabled ui-corner-all" type="text" id="plovfd" disabled="disabled"/>
+        <label id="plovfdl2" class="ds" for="plovfd">min</label>
+      </p>
+      <p class="ui-helper-clearfix">
+        <input type="checkbox" id="plovo"/>
+        <label for="plovo">Auto volume oscillation</label>
+        <label id="plovosl" class="ds" for="plovos">Speed: </label>
+        <select id="plovos" class="ui-state-default ui-state-disabled ui-corner-all" disabled="disabled">
+          <option value="1">Slow</option>
+          <option value="2">Normal</option>
+          <option value="3">Fast</option>
+        </select>
+        <label id="plovoal" class="ds" for="plovoa">Amplitude: </label>
+        <select id="plovoa" class="ui-state-default ui-state-disabled ui-corner-all" disabled="disabled">
+          <option value="1">Very small</option>
+          <option value="2">Small</option>
+          <option value="3">Medium</option>
+          <option value="4">Large</option>
+          <option value="5">Full</option>
+        </select>
+      </p>
+      <p class="ui-helper-clearfix">
+        <input type="checkbox" id="plost"/>
+        <label id="plostl" for="plost">Enable stereo</label>
+      </p>
+      <p class="ui-helper-clearfix">
+        <input type="checkbox" class="ui-state-disabled" id="plocr"/>
+        <label id="plocrl" class="ds" for="plocr">Reverse channels</label>
+      </p>
+      <div class="ui-helper-clearfix"></div>
+    </div>
+    <p class="ui-widget-header ui-corner-all plpoh">
+      Player Info
+      <a class="sosl right plpoho" title="What does it mean?" href="/faq#player_info">help<span class="ui-icon ui-icon-help right"></span></a>    </p>
+    <div class="plpos">
+      <p>
+        <span class="plpoc1">Player engine:</span>
+        <span class="plpoc2 dss" id="plieh2">HTML5 (WebAudio) based</span>
+        <span class="plpoc2 dss" id="plieh">HTML5 (&lt;audio&gt;) based</span>
+        <span class="plpoc2 dss" id="plief">Flash based</span>
+      </p>
+      <div class="ui-helper-clearfix"></div>
+      <p>
+        <span class="plpoc1">Audio codec:</span>
+        <span class="plpoc2 dss" id="plicr">None (real time generated)</span>
+        <span class="plpoc2 dss" id="plicv">OGG Vorbis</span>
+        <span class="plpoc2 dss" id="plicm">MP3</span>
+      </p>
+      <div class="ui-helper-clearfix"></div>
+    </div>
+  </div>
+  <div id="plbo"></div>
+  <div id="pl"></div>
+</div>
+
+    </div>
+    </footer>
+  </body>
+</html>
