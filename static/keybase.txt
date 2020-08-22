@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/martinkaptein
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://martinkaptein.com
+  * I am martinkaptein (https://keybase.io/martinkaptein) on keybase.
+  * I have a public key ASC8FkYpnhFUbQOCT1tnQ4UD-Oj_cviL-z2t1-CFNIft9wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bc1646299e11546d03824f5b67438503f8e8ff72f88bfb3dadd7e0853487edf70a",
+      "host": "keybase.io",
+      "kid": "0120bc1646299e11546d03824f5b67438503f8e8ff72f88bfb3dadd7e0853487edf70a",
+      "uid": "1923b3e2fbec0ade3f73fee283983f19",
+      "username": "martinkaptein"
+    },
+    "merkle_root": {
+      "ctime": 1598084691,
+      "hash": "9e958e0aa264e25783bc28e19925b9a04655abdcd077e16d17d95bb4231b2730246f4aaf5633b2457804c89386577fb3c1d1970c59a695e2a0e319b4596d49d0",
+      "hash_meta": "d192918b71d31deb397ae3853ac5930f1907ca7cb7c03203062c874102fbd095",
+      "seqno": 17352255
+    },
+    "service": {
+      "entropy": "0dPVFWVSzYtQG0yATNksogwZ",
+      "hostname": "martinkaptein.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1598084710,
+  "expire_in": 504576000,
+  "prev": "dbb824891d848bd160f8afa7c1d8701fc50ced51e3153a5bbcaa79f253b6e0e4",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvBZGKZ4RVG0Dgk9bZ0OFA/jo/3L4i/s9rdfghTSH7fcKp3BheWxvYWTESpcCBMQg27gkiR2Ei9Fg+K+nwdhwH8UM7VHjFTpbvKp58lO24OTEIF0pS7DRwN5naTxG0aSYMBymF2ZHxnB+h5iKP/OmXimlAgHCo3NpZ8RA+4TEB6vRyhRF55YK8j/BAVh4iRWobSn+qM2G6kdcBodMylGi5X6JMoVEdy6tQ18gO+vq5blBwmsE6W2CF+aKAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINwAWoDucdzOs6hUIgTRwCjGOt5hYYRUaloSS1yC6Bcyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/martinkaptein
+
+==================================================================
