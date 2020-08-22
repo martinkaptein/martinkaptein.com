@@ -2,12 +2,17 @@
     <h2><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>
     <nav>
         <ul>
-            <li><a href="{{ .Site.BaseURL }}">posts</a></li>
-            {{ range where .Site.Home.Pages "Title" "!=" "Posts" }}
+            {{ range .Site.Menus.main }}
             <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <a href="{{ .URL }}">{{ .Title }}</a>
             </li>
             {{ end }}
+	    <li>-</li>
+	    {{ range $.Site.Home.AllTranslations }}
+	    <li>
+        	    <a href="{{ .Permalink }}">{{ .Language.LanguageName}}</a>
+	    </li>
+	    {{ end }}
         </ul>
     </nav>
 </header>
