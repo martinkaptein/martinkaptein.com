@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 draft: false
-description: This is the blog of Martin Kaptein.
+description: Blog page of the pianist and tech enthusiast Martin Kaptein. He writes on a wide variety of topics which can all be found on this page.
 tags:
   - blog
   - Martin Kaptein

@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Martin
 slug: contact
 date: 2020-06-10
 description: The contact page on the website of Martin Kaptein.

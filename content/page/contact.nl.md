@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact opnemen met Martin
 slug: contact
 description: Pagina voor het contact opnemen met de muzikant, technoligieliefhebber en polyglot Martin Kaptein. Er zijn verschillende mogelijkheden, om met Martin Kaptein contact op te nemen, onder andere via E-Mail, Facebook, LinkedIn of Twitter.
 date: 2020-06-10

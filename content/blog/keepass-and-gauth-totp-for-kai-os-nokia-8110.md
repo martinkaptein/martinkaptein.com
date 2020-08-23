@@ -51,7 +51,7 @@ So, since the KaiOS platform *does not* have support for Java apps nor J2ME, the
 
 #### J2ME on KaiOS
 
-Apparently, there **is** a J2ME emulator available, it can be found [here](https://sites.google.com/view/b-hackers-store/home/emulators). It is called *KAVA* and can be installed, in a [method I am describing here](../sideloading-and-deploying-apps-to-kai-os).
+Apparently, there **is** a J2ME emulator available, it can be found [here](https://sites.google.com/view/b-hackers-store/home/emulators). It is called *KAVA* and can be installed, in a [method I am describing here](../sideloading-and-deploying-apps-to-kai-os/).
 
 There is a big "however", however. This emulator is still in beta, and for me after the successful installation, is was just hanging when I tried to start a Java -jar file on my KaiOS device.
 
@@ -75,7 +75,7 @@ However, this 'website' is scaled nicely, and has all its main content available
 
 Talk about easy!
 
-Actually, if you want to read a more in-depth article about this topic, I [suggest this article, where I write about how to convert a WebApp to KaiOS, and how you can do it easily yourself](../porting-converting-web-apps-website-to-kai-os).
+Actually, if you want to read a more in-depth article about this topic, I [suggest this article, where I write about how to convert a WebApp to KaiOS, and how you can do it easily yourself](../porting-converting-web-apps-website-to-kai-os/).
 
 ## KeePass WebApp for KaiOS
 
@@ -106,7 +106,7 @@ In this empty new file post the following code:
   "ime_default_softkey_bar": true
 }
 ```
-Save this file, and deploy the WebApp with the method [the method I am describing here](../sideloading-and-deploying-apps-to-kai-os) (recommended).
+Save this file, and deploy the WebApp with the method [the method I am describing here](../sideloading-and-deploying-apps-to-kai-os/) (recommended).
 
 What this file does, it just 'tells' the KaiOS system to enable the D-Pad cursor (so you can navigate the app) and enables the soft-keys (for example to exit a text field, which is kind of important).
 Alternatively, it would also work with OmniSD, but I haven't tested that. In that case you should zip the app again.
@@ -159,7 +159,7 @@ Paste this code into the `manifest.webapp` file:
 }
 ```
 
-Again, install it either with OmniSD or with [the method I am describing here](../sideloading-and-deploying-apps-to-kai-os) (recommended). 
+Again, install it either with OmniSD or with [the method I am describing here](../sideloading-and-deploying-apps-to-kai-os/) (recommended). 
 
 Here are a few screenshots of the GAuth WebApp running on KaiOS:
 
@@ -180,7 +180,7 @@ This app also works perfectly, as if it has been developed for this system.
 
 ## Conclusion
 
-It is very easy, to make WebApps work on KaiOS. Again, to read more about the latter [check out this in-depth post](../porting-converting-web-apps-website-to-kai-os).
+It is very easy, to make WebApps work on KaiOS. Again, to read more about the latter [check out this in-depth post](../porting-converting-web-apps-website-to-kai-os/).
 I really think very positively about the future of KaiOS and the concept of WebApps (thanks to Firefox, actually).
 
 Anyway, if you have questions remaining, feel free to post them as a comment, or [contact me](/contact/).
