@@ -48,11 +48,11 @@ You have been warned.
 ## Achieving temporary root
 
 In order to install the recovery, which is highly recommended on the [GerdaOS website](https://gerda.tech/), we will need to achieve temporary root access (through a root ADB shell).
-I have written an in-depth post about [how to achieve temporary root access on your KaiOS device](../kai-os-remove-default-pre-installed-bloatware-apps), which you can find [here](../kai-os-remove-default-pre-installed-bloatware-apps).
+I have written an in-depth post about [how to achieve temporary root access on your KaiOS device](../kai-os-remove-default-pre-installed-bloatware-apps/), which you can find [here](../kai-os-remove-default-pre-installed-bloatware-apps/).
 In this case we will be using the method involving *Wallace lite*.
 
 In order to accomplish root you will need to sideload the wallace.zip or wallace lite .zip file to your device using the Pale Moon Browser.
-If you have questions regarding the sideloading procedure, I have written another [post](../sideloading-and-deploying-apps-to-kai-os), which explains [how to to sideload and deploy a custom app to your KaiOS device](../sideloading-and-deploying-apps-to-kai-os), which you can find [here](../sideloading-and-deploying-apps-to-kai-os).
+If you have questions regarding the sideloading procedure, I have written another [post](../sideloading-and-deploying-apps-to-kai-os/), which explains [how to to sideload and deploy a custom app to your KaiOS device](../sideloading-and-deploying-apps-to-kai-os/), which you can find [here](../sideloading-and-deploying-apps-to-kai-os/).
 
 Surprisingly, when writing this post and simultaneously writing this blog post I found out, that the Pale Moon browser decided to remove WebIDE from Palemoon, during an update in late 2019.
 Hence, for the sideloading part, you will need to use [an older version of Palemoon](http://archive.palemoon.org/palemoon/28.x/28.6.1/) which still has WebIDE. You can find it [here](http://archive.palemoon.org/palemoon/28.x/28.6.1/).

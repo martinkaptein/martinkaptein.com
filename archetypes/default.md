@@ -12,3 +12,4 @@ comments: true
 ---
 
 ## Start content like this
+(note: internal links ALWAYS should end with slash)
