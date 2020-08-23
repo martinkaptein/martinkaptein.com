@@ -11,3 +11,7 @@ Theme [etch](https://github.com/LukasJoswiak/etch).
 ## Usage
 
 New blog post: `hugo new blog/postname.md`
+
+## Custom snippets
+
+Custom hardcoded snippets go into `/layouts/partials/`.

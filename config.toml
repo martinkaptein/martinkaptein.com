@@ -9,6 +9,8 @@ DefaultContentLanguage = "en"
 googleAnalytics = "UA-86096566-3"
 disqusShortname = "martinkaptein"
 twitterUser = "@martinkaptein"
+# See /etch/layouts/robots.txt for more control - this config uses sane defaults
+enableRobotsTXT = true
 
 [permalinks]
 #  posts = "/:title/"
@@ -19,10 +21,16 @@ misc = "/:slug/"
   # Allow HTML in Markdown
   unsafe = true
 
+########
+##KEEP IN MIND
+# schema hardcoded in custom layouts
+########
+
 # fallback settings, better for them to be defined by language
 [params]
   description = "The website and blog of Martin Kaptein."
   dark = "auto" #off, auto, on
+  RobotsDisallow = ["/dev/"]
   copyright = "Copyright (c) 2020 Martin Kaptein"
   highlight = true
   postListTitle = "Blog" # Name on the list page

@@ -77,6 +77,11 @@
 <meta name="twitter:site" content="{{ $.Site.Params.twitterUser }}" />
 <meta name="twitter:creator" content="{{ $.Site.Params.twitterUser }}" />
 
+<!-- Schema -->
+{{ if .IsHome }}
+{{ partial "custom/schema.html" . }}
+{{ end }}
+
 <!-- RSS stuff -->
     {{ with .OutputFormats.Get "rss" -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
