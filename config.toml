@@ -1,21 +1,20 @@
 baseURL = "https://www.martinkaptein.com"
 title = "Martin Kaptein"
-theme = "etch"
+theme = "elephants"
 languageCode = "en-US"
-enableInlineShortcodes = true
-pygmentsCodeFences = true
-pygmentsUseClasses = true
 DefaultContentLanguage = "en"
 googleAnalytics = "UA-86096566-3"
 disqusShortname = "martinkaptein"
 twitterUser = "@martinkaptein"
 # See /etch/layouts/robots.txt for more control - this config uses sane defaults
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+paginate = 20
+disableHugoGeneratorInject = true
 
 [permalinks]
-#  posts = "/:title/"
+post = "/:slug/"
 page = "/:slug/"
-misc = "/:slug/"
 
 [markup.goldmark.renderer]
   # Allow HTML in Markdown
@@ -23,28 +22,19 @@ misc = "/:slug/"
 
 ########
 ##KEEP IN MIND
-# schema hardcoded in custom layouts
+# schema and other header tags hardcoded in custom layouts
 ########
 
 # fallback settings, better for them to be defined by language
 [params]
+  sitename = "Martin Kaptein"
   description = "The website and blog of Martin Kaptein."
-  dark = "auto" #off, auto, on
   RobotsDisallow = ["/dev/"]
-  copyright = "Copyright (c) 2020 Martin Kaptein"
-  highlight = true
-  postListTitle = "Blog" # Name on the list page
   siteTitle = "Martin Kaptein" # Only for meta title tag, this get appended to the page title
   siteAuthor = "Martin Kaptein"
   twitterUser = "@martinkaptein"
   facebookUser = "martin.kaptein" # Only top part of URL
-# various string declarations, for possible translations
-  stringNextPage = "next page"
-  stringPrevPage = "previous page"
-  stringMorePosts = "More"
-  stringFullPostsList = "Full list of posts"
-  stringContact = "Contact Martin Kaptein"
-  stringTagList = "topics"
+
 
 [languages]
 
@@ -61,11 +51,10 @@ languageName = "English"
 [languages.nl] 
 languageName = "Nederlands"
 [languages.nl.params]
-stringMorePosts = "Meer"
-stringContact = "Contact opnemen met Martin Kaptein"
+# possible param overwrites go here
 [languages.nl.menu]
 [[languages.nl.menu.main]]
 name = "Blog (engels)"
 title = "Blog (engels)"
-url = "/blog/"
+url = "/"
 weight = -1

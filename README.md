@@ -10,7 +10,7 @@ Theme [etch](https://github.com/LukasJoswiak/etch).
 
 ## Usage
 
-New blog post: `hugo new blog/postname.md`
+New blog post: `hugo new post/postname.md`
 
 ## Custom snippets
 

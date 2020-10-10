@@ -1,0 +1,56 @@
+{{ partial "header.html" . }}
+
+<section id=content>
+    <!-- Language menu -->
+    <ul class=language_listing>
+	    {{ range $.Site.Home.AllTranslations }}
+	    <div id="language">
+		    <div class="language_item">
+			    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+		    </div>
+	    </div>
+	    {{ end }}
+    </ul>
+	<!--Menu-->
+    <ul class=menu_listing>
+	    {{ range .Site.Menus.main }}
+	    <div id="menu">
+		    <div class="menu_item">
+			    <a href="{{ .URL }}">{{ .Title }}</a>
+		    </div>
+	    </div>
+	    {{ end }}
+    </ul>
+    <!--List of posts-->
+    <ul class=posts_listing>
+	{{ range .Paginator.Pages }}
+        <div id="posts">
+          <div id=date class="date-time-title">
+              <time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "2006-01-02" }}</time>
+          </div>
+          <div class="date-time-title post">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </div>
+        </div>
+      {{ end }}
+    </ul>
+    <!--Pagination menu-->
+    <ul class=menu_listing>
+	    {{ with .Paginator.Prev }}
+	    <div id="menu">
+		    <div class="menu_item">
+			    <a href="{{ .URL }}"><<</a>
+		    </div>
+	    </div>
+	    {{ end }}
+	    {{ with .Paginator.Next }}
+	    <div id="menu">
+		    <div class="menu_item">
+			    <a href="{{ .URL }}">>></a>
+		    </div>
+	    </div>
+	    {{ end }}
+    </ul>
+  </section>
+
+{{ partial "footer.html" . }}

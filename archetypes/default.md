@@ -3,12 +3,10 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 description: "Here comes the description"
-tags:
-  - tag1
-categories:
-  - about one category, just to be sure
-slug: the-slug
-comments: true
+slug: post/the-slug
+keywords:
+  - 1
+  - 2
 ---
 
 ## Start content like this

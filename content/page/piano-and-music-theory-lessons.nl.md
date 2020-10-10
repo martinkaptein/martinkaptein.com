@@ -8,6 +8,7 @@ date: 2019-09-20
 lastmod: 2019-09-20
 authors: ["martinkaptein"]
 comments: true
+draft: true
 slug: piano-lessen-en-muziek-theorie-lessen
 weight: -1
 ---

@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+<main>
+<article lang='{{ .Site.Language.Lang }}'>
+<section class="blog-post">
+    <h1>{{ .Title }}</h1>
+    <div class="blog-post-subheader">
+	    <time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "2006-01-02" }}</time>
+    </div>
+    <div class="blog-post-content">
+        {{ .Content }}
+    </div>
+</section>
+</article>
+</main>
+{{ partial "footer.html" . }}

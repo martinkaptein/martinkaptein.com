@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Example Blog"
+theme = "elephants"
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+[params]
+    sitename = "Elephants"

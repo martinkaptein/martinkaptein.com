@@ -1,4 +1,4 @@
 just rectangle
 at x=0, y=0
-width & heights = 600
+width & height = 600
 color: #FFA86A

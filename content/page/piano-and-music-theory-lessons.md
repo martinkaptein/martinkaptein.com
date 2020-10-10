@@ -3,6 +3,7 @@ title: "Piano and music theory lessons"
 description: "Piano lessons and music theory lessons, for all ages and skill levels, in the vicinity of Bosch en Duin, Den Dolder, Bilthoven, Amersfoort and Utrecht."
 authors: ["martinkaptein"]
 slug: piano-and-music-theory-lessons
+draft: true
 date: 2020-06-10
 menu: 
   - main
