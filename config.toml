@@ -40,13 +40,6 @@ page = "/:slug/"
 
 [languages.en] 
 languageName = "English"
-[languages.en.menu]
-[[languages.en.menu.main]]
-# name = "home"
-# title = "home"
-# url = "/"
-# weight = -110
-
 
 [languages.nl] 
 languageName = "Nederlands"

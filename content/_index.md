@@ -1,5 +1,5 @@
 ---
-title: Homepage of Martin Kaptein
+title: Homepage of the website of Martin Kaptein
 description: This is the website of Martin Kaptein. Martin Kaptein is a musician, pianist, technology enthusiast and speaks a lot of different languages. Martin has a blog.
 keywords:
   - Martin Kaptein
