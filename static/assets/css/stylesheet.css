@@ -6,7 +6,7 @@ body {
     font-size: 18px;
 }
 
-#page-title {
+#header {
     text-align: center;
 }
 
@@ -55,4 +55,21 @@ img {
 
 .menu_item a:hover, .language_item a:hover {
     text-decoration: underline;
+}
+
+#menu_pag {
+	text-align: center;
+}
+
+.footer {
+	text-align: center;
+	padding-bottom: 1em;
+}
+
+.subheader a:hover, .footer a:hover {
+	text-decoration: none;
+}
+
+.subheader a, .footer a {
+	text-decoration: underline;
 }

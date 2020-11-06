@@ -50,7 +50,14 @@
     </head>
     <body>
 	    <header>
-        <section id="page-title">
+        <section id="header">
+		<div id="page-title">
             <h1><a href="/">{{ .Site.Params.sitename | default "Martin Kaptein"}}</a></h1>
+		</div>
+	    {{ if .IsHome }}
+	    <div class="subheader">
+	    <p>{{ .Site.Params.subHeader | safeHTML }}</p>
+	    </div>
+	    {{ end }}
         </section>
 	</header>

@@ -8,12 +8,12 @@ disqusShortname = "martinkaptein"
 twitterUser = "@martinkaptein"
 # See /etch/layouts/robots.txt for more control - this config uses sane defaults
 enableRobotsTXT = true
-disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
 paginate = 20
 disableHugoGeneratorInject = true
 
 [permalinks]
-post = "/:slug/"
+blog = "/:slug/"
 page = "/:slug/"
 
 [markup.goldmark.renderer]
@@ -34,6 +34,8 @@ page = "/:slug/"
   siteAuthor = "Martin Kaptein"
   twitterUser = "@martinkaptein"
   facebookUser = "martin.kaptein" # Only top part of URL
+  subHeader = 'Pianist, founder of <a href="https://scriabinclub.com/">Scriabin Club</a>'
+  footerHTML = '(c) 2020 Martin Kaptein | <a href="/">Homepage</a> | <a href="/contact/">Contact</a>'
 
 
 [languages]
@@ -45,9 +47,11 @@ languageName = "English"
 languageName = "Nederlands"
 [languages.nl.params]
 # possible param overwrites go here
+subHeader = 'Pianist, oprichter van <a href="https://scriabinclub.com/">Scriabin Club</a>'
+footerHTML = '(c) 2020 Martin Kaptein | <a href="/nl/">Startpagina</a> | <a href="/nl/contact/">Contact</a>'
 [languages.nl.menu]
 [[languages.nl.menu.main]]
 name = "Blog (engels)"
 title = "Blog (engels)"
 url = "/"
-weight = -1
+weight = 5

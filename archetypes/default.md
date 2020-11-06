@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 description: "Here comes the description"
-slug: post/the-slug
+slug: blog/the-slug
 keywords:
   - 1
   - 2
