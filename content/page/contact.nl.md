@@ -45,7 +45,7 @@ Twitter: [@MartinKaptein](https://twitter.com/MartinKaptein/)
 
 LinkedIn: [LinkedIn profile](https://linkedin.com/in/martin-kaptein-a26661159)
 
-YouTube: [My channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ)
+YouTube: [Mijn kanaal](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ)
 
 Github: [martinkaptein](https://github.com/martinkaptein)
 

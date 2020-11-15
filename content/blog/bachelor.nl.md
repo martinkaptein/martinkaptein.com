@@ -63,7 +63,7 @@ Dat zijn Frank van de Laar, onder wiens leiding ik de laatste twee jaar van mijn
 
 ### Pagina delen
 
-U kan deze pagina delen, door iemand anders deze QR code te laten scannen.
+U kan deze pagina vanaf Uw mobiele telefoon delen, door iemand anders deze QR code te laten scannen.
 
 ![QR code met link naar deze pagina](/images/page/bachelor-nl-site.png)
 

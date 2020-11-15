@@ -1,5 +1,5 @@
 ---
-title: "Pianoles klassiek aan huis regio Den Bosch, Vught en Tilburg."
+title: "Pianoles klassiek aan huis regio Den Bosch, Vught en Tilburg"
 date: 2020-09-29T19:43:10+02:00
 draft: false
 description: "Piano lessen klassieke muziek in de regio's Den Bosch, Vught en Tilburg met Martin Kaptein. Voor alle leeftijden en niveaus."
