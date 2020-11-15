@@ -58,7 +58,7 @@ Read the next Paragraphs to learn how to stay updated for this project.
 I will constantly be adding information to and about the project.
 In order to stay updated, I will communicate clearly and loudly.
 
-First of all, this very articly will constantly be updated with the latest information.
+First of all, this very article will constantly be updated with the latest information.
 Also feel free to keep an eye on the [news page of my website](/news/) where I will be posting all the latest News and Announcemnets.
 
 Of course, keep an eye on the [Scriabin Club website](https://scriabinclub.com/).
