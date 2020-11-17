@@ -35,7 +35,7 @@ page = "/:slug/"
   twitterUser = "@martinkaptein"
   facebookUser = "martin.kaptein" # Only top part of URL
   subHeader = 'Pianist, founder of <a href="https://scriabinclub.com/">Scriabin Club</a>'
-  footerHTML = '(c) 2020 Martin Kaptein | <a href="/">Homepage</a> | <a href="/contact/">Contact</a>'
+  footerHTML = '(c) 2020 Martin Kaptein | <a href="/">Home</a> | <a href="/contact/">Contact</a>'
 
 
 [languages]
