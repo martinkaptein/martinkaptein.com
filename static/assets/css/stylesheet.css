@@ -73,3 +73,10 @@ img {
 .subheader a, .footer a {
 	text-decoration: underline;
 }
+
+pre code {
+	overflow-x: scroll;
+	overflow-y: hidden;
+	display: block;
+	word-wrap: normal;
+    }
