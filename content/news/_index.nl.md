@@ -1,15 +1,16 @@
 ---
-title: "NEDERLANDS News and Announcements"
+title: "Nieuws en aankondigingen"
 date: 2020-11-06T11:04:13+01:00
-draft: true
-description: "News and announcements on the website of Martin Kaptein. Announcements of new projects, ideas, concerts and news of all kinds including schedules and events."
+draft: false
+description: "Het nieuws en aankondigingen over projecten, optredens, ideeën en roosters van Martin Kaptein. Hieronder vallen concerten en nog veel meer."
 menu: main
 weight: -3
 keywords:
   - Martin Kaptein
-  - News
-  - Announcements
-  - Projects
-  - Concerts
-  - Music
+  - Nieuws
+  - Aankondigingen
+  - Projecten
+  - Concerten
+  - Muziek
+  - Nederlands
 ---

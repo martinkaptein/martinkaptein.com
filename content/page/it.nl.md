@@ -1,5 +1,5 @@
 ---
-title: "CV Technologie en ervaring in IT van Martin Kaptein"
+title: "CV Technologie en ervaring in ICT van Martin Kaptein"
 date: 2020-10-08T11:02:12+02:00
 draft: false
 description: "De ervaring in technologie en Informatica met CV van Martin Kaptein. Onder andere bevat dit ervaring op gebied van kunstmatige intelligentie, programmeren, Linux and bouwen van websites."
