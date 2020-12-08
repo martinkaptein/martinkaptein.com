@@ -2,31 +2,31 @@
 
 <section id=content>
     <!--List of posts-->
-    <ul class=posts_listing>
+    <ul>
 	{{ range .Paginator.Pages }}
-        <div id="posts">
-          <div id="date" class="date-time-title">
+        <div class="list">
+          <div>
               <time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "2006-01-02" }}</time>
           </div>
-          <div class="date-time-title post">
+          <div>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
           </div>
         </div>
       {{ end }}
     </ul>
     <!--Pagination menu-->
-    <ul class=menu_listing>
+    <ul class="pagination">
 	    {{ with .Paginator.Prev }}
-	    <div id="menu_pag">
-		    <div class="menu_item">
-			    <a href="{{ .URL }}"><<</a>
+	    <div>
+		    <div class="list">
+			    <a href="{{ .URL }}">{{ $.Site.Params.strPreviousPage }}</a>
 		    </div>
 	    </div>
 	    {{ end }}
 	    {{ with .Paginator.Next }}
-	    <div id="menu_pag">
-		    <div class="menu_item">
-			    <a href="{{ .URL }}">>></a>
+	    <div>
+		    <div class="list">
+			    <a href="{{ .URL }}">{{ $.Site.Params.strNextPage }}</a>
 		    </div>
 	    </div>
 	    {{ end }}

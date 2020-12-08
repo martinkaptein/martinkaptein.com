@@ -1,21 +1,21 @@
 {{ partial "header.html" . }}
 
-<section id=content>
+<section id="content">
     <!-- Language menu -->
-    <ul class=language_listing>
+    <ul>
 	    {{ range $.Site.Home.AllTranslations }}
-	    <div id="language">
-		    <div class="language_item">
+	    <div>
+		    <div class="list">
 			    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
 		    </div>
 	    </div>
 	    {{ end }}
     </ul>
 	<!--Menu-->
-    <ul class=menu_listing>
+    <ul>
 	    {{ range .Site.Menus.main }}
-	    <div id="menu">
-		    <div class="menu_item">
+	    <div>
+		    <div class="list">
 			    <a href="{{ .URL }}">{{ .Title }}</a>
 		    </div>
 	    </div>
