@@ -36,6 +36,8 @@ page = "/:slug/"
   facebookUser = "martin.kaptein" # Only top part of URL
   subHeader = 'Pianist, founder of <a href="https://scriabinclub.com/">Scriabin Club</a>'
   footerHTML = '(c) 2020 Martin Kaptein | <a href="/">Home</a> | <a href="/contact/">Contact</a>'
+  strNextPage = "next page"
+  strPreviousPage = "previous page"
 
 
 [languages]
@@ -47,11 +49,13 @@ languageName = "English"
 languageName = "Nederlands"
 [languages.nl.params]
 # possible param overwrites go here
-subHeader = 'Pianist, oprichter van <a href="https://scriabinclub.com/">Scriabin Club</a>'
+subHeader = 'Pianist, oprichter van de <a href="https://scriabinclub.com/">Scriabin Club</a>'
 footerHTML = '(c) 2020 Martin Kaptein | <a href="/nl/">Startpagina</a> | <a href="/nl/contact/">Contact</a>'
+strNextPage = "volgende pagina"
+strPreviousPage = "vorige pagina"
 [languages.nl.menu]
 [[languages.nl.menu.main]]
 name = "Blog (engels)"
 title = "Blog (engels)"
-url = "/"
+url = "/blog/"
 weight = 5
