@@ -77,6 +77,7 @@ The referenced codebase (Python) resides on Github and can be found [here](https
 Some of the stuff I made / I worked on / Projects.
 Contains only links to Github.
 
+- [Minimal Full-featured Hugo theme](https://github.com/martinkaptein/tigers)
 - [DeepBach fork](https://github.com/martinkaptein/DeepBachResearch)
 - [Events.txt org mode replacement calendar solution](https://github.com/martinkaptein/Events.txt)
 - [Fork of ATC game in golang](https://github.com/martinkaptein/atc)

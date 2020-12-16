@@ -78,6 +78,7 @@ De gerefereerde Python broncode kan worden [gevonden op Github](https://github.c
 Dadelijk volgen voorbeelden van programma's die Martin zelf ontworpen / aan meegewerkt heeft.
 Alleen link naar Github.
 
+- [Minimaal thema voor Hugo met alle functies](https://github.com/martinkaptein/tigers)
 - [Een fork / aanpassing van het DeepBach project](https://github.com/martinkaptein/DeepBachResearch)
 - [Een alternatief voor org mode genoemd Event.txt](https://github.com/martinkaptein/Events.txt)
 - [Een fork / aanpassing van het ATC spel in de Go programmeertaal](https://github.com/martinkaptein/atc)
