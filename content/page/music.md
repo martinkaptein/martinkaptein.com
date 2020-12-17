@@ -12,6 +12,7 @@ keywords:
   - Musician
   - Tilburg
   - The Netherlands
+metaImage: /images/page/martin-kaptein-cover.jpg
 ---
 
 ## Artistic CV Martin Kaptein

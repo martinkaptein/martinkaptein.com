@@ -12,6 +12,7 @@ keywords:
   - CV
   - Programming
 menu: main
+metaImage: /images/martin-kaptein-main-2.jpg
 weight: -1
 slug: technology
 ---

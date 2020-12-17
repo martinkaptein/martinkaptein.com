@@ -5,6 +5,7 @@ draft: false
 description: "Martin Kaptein is een pianist en musicus, nu studerend in Tilburg, Nederland. Martin neemt vaak deel aan competities, masterclasses en festivals."
 slug: musicus
 menu: main
+metaImage: /images/page/martin-kaptein-cover.jpg
 weight: -4
 keywords:
   - Martin Kaptein

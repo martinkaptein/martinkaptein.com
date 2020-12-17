@@ -4,6 +4,7 @@ date: 2020-10-03T10:42:57+02:00
 draft: false
 description: "Classical piano lessons in the region of Den Bosch, Vught and Tilburg, The Netherlands with Martin Kaptein. For all ages and levels."
 slug: piano-lessons
+metaImage: /images/page/piano-lessons-with-martin-1.jpg
 keywords:
   - piano lessons
   - Den Bosch

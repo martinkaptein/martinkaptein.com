@@ -5,6 +5,7 @@ draft: false
 description: "Piano lessen klassieke muziek in de regio's Den Bosch, Vught en Tilburg met Martin Kaptein. Voor alle leeftijden en niveaus."
 slug: piano-lessen
 menu: main
+metaImage: /images/page/piano-lessons-with-martin-1.jpg
 weight: -3
 keywords:
   - pianoles

@@ -15,6 +15,7 @@ tags:
 categories:
   - Jazz
 slug: blog/mehldau-ephraim-solo-transcription-with-pdf
+metaImage: /images/blog/ephraim-transcription-musescore.jpg
 comments: true
 ---
 

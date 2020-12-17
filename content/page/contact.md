@@ -6,6 +6,7 @@ description: The contact page on the website of Martin Kaptein. Here you can con
 menu:
   - main
 weight: 2 
+metaImage: /images/page/martinkaptein_profile.jpg
 keywords: 
   - contact
   - martin kaptein

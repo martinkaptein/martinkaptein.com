@@ -5,6 +5,7 @@ draft: false
 description: "De ervaring in technologie en Informatica met CV van Martin Kaptein. Onder andere bevat dit ervaring op gebied van kunstmatige intelligentie, programmeren, Linux and bouwen van websites."
 slug: technologie
 menu: main
+metaImage: /images/martin-kaptein-main-2.jpg
 weight: -3
 keywords:
   - Martin Kaptein

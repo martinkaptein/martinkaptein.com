@@ -6,6 +6,7 @@ date: 2020-06-10
 menu:
   - main
 weight: 2 
+metaImage: /images/page/martinkaptein_profile.jpg
 keywords:
   - contact
   - Martin Kaptein

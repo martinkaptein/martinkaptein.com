@@ -4,6 +4,7 @@ date: 2020-12-16T11:16:00+01:00
 lastmod: 2020-12-16T11:16:00+01:00
 draft: false
 description: "Tigers is a minimal theme for Hugo forked from Elephants theme. It comes full with features, such as Multi language support, Blogging, SEO optimized, absence of JavaScript and very Easy setup."
+metaImage: /images/blog/tigers-theme-screens.png
 slug: blog/hugo-minimal-theme-tigers
 keywords:
   - Hugo
