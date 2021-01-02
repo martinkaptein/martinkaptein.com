@@ -27,6 +27,10 @@ If you would like you can also donate. At this point in time the options to dona
 
 ### Contact information
 
+#### Languages
+
+English, Dutch, German, Russian.
+
 #### E-Mail
 
 [martin@martinkaptein.com](mailto:martin@martinkaptein.com)

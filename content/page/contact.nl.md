@@ -28,6 +28,10 @@ Als U donateur wil worden kan dat ook. Op dit moment ondersteunen wij PayPal en 
 
 ### Contact informatie
 
+#### Talen
+
+Nederlands, Engels, Duits, Russisch.
+
 #### Email adres
 
 [martin@martinkaptein.com](mailto:martin@martinkaptein.com)
