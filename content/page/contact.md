@@ -63,9 +63,9 @@ Here is the link to donate with PayPal: [paypal.me/MartinKaptein](https://www.pa
 
 You can send bitcoin to the following address: 
 
-`bc1qyufmsen3mj3v3lpeha57t8z4rt4dcsvlafxfmd`
+`17qDvdD1igey6VoWtB7mMSBgRi9RKFoEnn`
 
-![Bitcoin QR adress](/images/page/btc.png)
+![Bitcoin QR adress](/images/page/1609684512600.jpg)
 
 *The same bitcoin adres in QR code form*
 

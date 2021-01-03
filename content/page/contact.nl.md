@@ -64,9 +64,9 @@ Dit is de link om met PayPal te doneren: [paypal.me/MartinKaptein](https://www.p
 
 Bitcoin adres van Martin Kaptein: 
 
-`bc1qyufmsen3mj3v3lpeha57t8z4rt4dcsvlafxfmd`
+`17qDvdD1igey6VoWtB7mMSBgRi9RKFoEnn`
 
-![Bitcoin QR code adres](/images/page/btc.png)
+![Bitcoin QR code adres](/images/page/1609684512600.jpg)
 
 *Bitcoin QR code adres*
 
