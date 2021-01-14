@@ -37,6 +37,8 @@ English, Dutch, German, Russian.
 
 #### Social networks
 
+LBRY: (alternative to YouTube) [@martinkaptein](https://lbry.tv/$/invite/@martinkaptein:9)
+
 [keybase.io/martinkaptein](https://keybase.io/martinkaptein)
 
 Facebook: [facebook.com/martin.kaptein](https://www.facebook.com/martin.kaptein)
