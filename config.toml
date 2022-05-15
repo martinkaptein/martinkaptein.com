@@ -1,0 +1,73 @@
+baseURL = "https://martinkaptein.com"
+title = "Martin Kaptein"
+theme = "tigers"
+languageCode = "en-US"
+DefaultContentLanguage = "en"
+enableRobotsTXT = true
+#disableKinds = ["taxonomy", "taxonomyTerm"]
+paginate = 30
+disableHugoGeneratorInject = true
+
+[taxonomies]
+  cat = 'cat'
+
+[permalinks]
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+########
+##KEEP IN MIND
+# schema and other header tags hardcoded in custom layouts
+########
+
+# fallback settings, better for them to be defined by language
+[params]
+  sitename = "Martin Kaptein"
+  siteAuthor = "Martin Kaptein"
+  description = "The website and blog of Martin Kaptein."
+  RobotsDisallow = ["/dev/"]
+  intro = 'Pianist, founder of <a href="https://scriabinclub.com/">Scriabin Club</a>'
+
+  footerHTML = '(c) 2022 Martin Kaptein | <a href="/contact/">Contact</a>'
+  strNextPage = "Older →"
+  strPreviousPage = "← Newer"
+
+[languages]
+
+[languages.en] 
+languageName = "English"
+
+[languages.nl] 
+languageName = "Nederlands"
+[languages.nl.params]
+# possible param overwrites go here
+subHeader = 'Pianist, oprichter van de <a href="https://scriabinclub.com/">Scriabin Club</a>'
+footerHTML = '(c) 2022 Martin Kaptein | <a href="/contact/">Contact</a>'
+strNextPage = "volgende"
+strPreviousPage = "vorige"
+intro = 'Pianist, oprichter van de <a href="https://scriabinclub.com/nl/">Scriabin Club</a>'
+
+#[languages.nl.menu]
+#[[languages.nl.menu.main]]
+#name = "Blog (Engels)"
+#title = "Blog (Engels)"
+#url = "/blog/"
+#weight = 5
+
+[languages.de] 
+languageName = "Deutsch"
+[languages.de.params]
+## possible param overwrites go here
+footerHTML = '(c) 2022 Martin Kaptein | <a href="/contact/">Kontakt</a>'
+strNextPage = "Älter →"
+strPreviousPage = "← Neuer"
+
+#[languages.ru] 
+#languageName = "Русский"
+#[languages.ru.params]
+## possible param overwrites go here
+#footerHTML = '(c) 2022 Мартин Каптейн | <a href="/contact/">Контакт</a>'
+#strNextPage = "Старее →"
+#strPreviousPage = "← Новее"
