@@ -4,7 +4,8 @@
     <desc>Created with vim.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#4c5695" x="0" y="0" width="420" height="420"></rect>
+        <rect id="Rectangle" fill="#3e4688" x="0" y="0" width="420" height="420"></rect>
+<!-- Average of 8.png -->
         <circle id="Oval" fill="#FFFFFF" cx="210" cy="210" r="120"></circle>
     </g>
 </svg>
