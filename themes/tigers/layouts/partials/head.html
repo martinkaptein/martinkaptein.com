@@ -72,6 +72,8 @@
 {{ else }}
 <meta property="og:image" content="{{ .Params.metaImage | absURL }}">
 {{ end }}
+{{ else }}
+<meta property="og:image" content="{{ "/images/default_meta_image.jpg" | absURL }}">
 {{ end }}
 
 
