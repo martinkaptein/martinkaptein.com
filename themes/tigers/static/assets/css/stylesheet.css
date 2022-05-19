@@ -1,5 +1,4 @@
 /*body defaults*/
-
 body {
     font-family: "Roboto", sans-serif;
     color: #ffffff;
@@ -17,7 +16,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #1e223b;
+    background-color: #15223B;
 
     /*
      * proper average of 8.jpg

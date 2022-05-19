@@ -7,12 +7,12 @@
     {{ $image = $image.Resize "300x jpg q50" }}
 {{ end }}
 <figure>
-    <img src="{{ $image.RelPermalink | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} width="$image.Width" height="$image.Height"/>
-{{ with .Text }} <figcaption>{{ . }}</figcaption>{{ end }}
+	<img src="{{ $image.RelPermalink | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} width="{{ $image.Width }}" height="{{ $image.Height }}"/>
+    {{ with .Text }} <figcaption><i>{{ . }}</i></figcaption>{{ end }}
 </figure>
 {{ else }}
 <figure>
 	<img src="{{ .Destination | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} />
-    {{ with .Text }} <figcaption>{{ . }}</figcaption> {{ end }}
+	{{ with .Text }} <figcaption><i>{{ . }}</i></figcaption> {{ end }}
 </figure>
 {{ end }}
