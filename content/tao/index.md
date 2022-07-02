@@ -3,6 +3,7 @@ title: "Collection of writings on Taoism"
 draft: false
 metaImage: YinYang.png
 description: "A collection of writings on Taoism in different languages. Tao te Ching by Laotse, I Ging and the secret of the golden flower."
+toc: true
 keywords:
   - Taoism
   - Daoism

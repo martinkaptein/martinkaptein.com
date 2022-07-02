@@ -1,7 +1,0 @@
-User-agent: *
-{{ range $.Site.Params.RobotsDisallow }}
-Disallow: {{ . }}
-{{ end }}
-{{ range $.Site.Home.AllTranslations }}
-Sitemap: {{ .Permalink }}
-{{ end }}
