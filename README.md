@@ -4,4 +4,4 @@
 
 Hugo extended (latest), using my own custom build theme (tigers).
 
-Auto-builds every day.
+Symlink tigers into themes/.
