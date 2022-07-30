@@ -129,3 +129,5 @@ grub-mkconfig -o /boot/grub/grub.cfg
 
 Now you can exit the chroot environment and reboot.
 You should have the full Arch Linux ISO installed on your hard drive, with all the tools it came with, without any internet connection!
+
+By the way, you can also [encrypt an offline Arch Linux setup](/blog/arch-linux-encrypted-full-install/).
