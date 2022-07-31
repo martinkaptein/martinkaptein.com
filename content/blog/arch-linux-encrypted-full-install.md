@@ -134,3 +134,20 @@ Now you should have a fully encrypted Arch install.
 
 Keep in mind that in this setup you will need to enter your password twice.
 It is possible to remedy that, but this will be slightly more complicated, warranting a deeper exploration of this topic.
+
+### Update: Encrypting SWAP space
+
+As leaving memory of your RAM, which is stored and retrievable in the SWAP space is hugely not desirable, it is much recommended to encrypt the SWAP partition as well.
+In this case you will need to decide if you need the hibernation feature or not.
+If you do not need hibernation, the setup will be quite simple.
+This is easiest to do after the full Arch Installation.
+
+First, turn off the current SWAP, using `swapoff /dev/sda1`.
+Open both `/etc/crypttab` and `/etc/fstab` in text editors next to each other.
+
+Copy the UUID of the SWAP partition from `/etc/fstab` over to the `/dev/sdX#` in `/etc/crypttab`.
+Of course you will need to uncomment that line too.
+After this, change the `UUID=youruuid` in `/etc/fstab` to `/dev/mapper/swap`.
+This is because *crypttab* will automatically mount the SWAP partition with the UUID to `/dev/mapper/swap` initializing it with a unique key on every boot.
+
+Now you have encrypted SWAP as well.
