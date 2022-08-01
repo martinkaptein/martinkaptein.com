@@ -6,10 +6,10 @@ draft: false
 description: "Installing Arch Linux without an internet connection from just a USB drive. No caching of Pacman repositories required. This method basically copies the Arch Linux filesystem from the USB drive to the computer."
 # meta image relative to this file
 #Set to true to have Table of Content
-# cat = {tag&category&keyword}
+# cat = {tag&category}
 cat:
   - linux
-  - arch
+  - technology
 ---
 
 

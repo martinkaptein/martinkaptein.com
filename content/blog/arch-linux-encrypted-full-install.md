@@ -6,7 +6,7 @@ draft: false
 description: "Installing Arch Linux on a fully encrypted drive, including the boot partition. It is actually quite straightforward to install Arch Linux fully encrypted for a BIOS MBR bootloader installation. "
 # cat = {tag&category&keyword}
 cat:
-  - arch
+  - technology
   - linux
 ---
 
@@ -37,6 +37,7 @@ This way everything will be encrypted except for the SWAP partition.
 Follow the first steps of the [standard Arch installation on the Arch Wiki](https://wiki.archlinux.org/title/Installation_guide), paying extra attention to select the correct keyboard layout.
 Setup an internet connection (or you can use [my guide for a full offline install](/blog/arch-offline-install/) which also works with encryption).
 Update the system clock and partition the disks with `fdisk /dev/sda` or something else.
+As my method will require to embed GRUB in between the partition space you will need to use a DOS partitioning scheme[^gpttodos].
 
 For the rest of the guide I will assume that your root partition, which will contain everything (except SWAP of course), will be on `/dev/sda2`.
 If you chose to have SWAP you can already use `mkswap /dev/sda1` and `swapon /dev/sda1`.
@@ -151,3 +152,5 @@ After this, change the `UUID=youruuid` in `/etc/fstab` to `/dev/mapper/swap`.
 This is because *crypttab* will automatically mount the SWAP partition with the UUID to `/dev/mapper/swap` initializing it with a unique key on every boot.
 
 Now you have encrypted SWAP as well.
+
+[^gpttodos]: If you need to convert from GPT back to MBR/DOS (for which there actually are legitimate reasons), you will need to "destroy" GPT using `gdisk /dev/sda` > advanced > z (zap). For me it also helped to mark `/dev/sda2` as bootable from fdisk. Otherwise you will have a system which cannot boot.
