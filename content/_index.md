@@ -17,6 +17,6 @@ I am a professional [pianist and musician](/music/) and the founder of [Scriabin
 I am [good with technology](/tech/) and I speak a lot of languages including English, Dutch, German and Russian.
 
 Moreover I am a professional piano teacher and educator.
-I like [Chinese philosophy](/tao/) and am generally interested in a wide variety of topics, which I sometimes write about [in my blog](/blog/).
+I like [philosophy](/tao/) and am generally interested in a wide variety of topics, which I sometimes write about [in my blog](/blog/).
 
 ![Martin Kaptein](Martin-Kaptein-reading-artistic.jpg)

@@ -17,6 +17,6 @@ Ich bin ein professioneller Pianist und Musiker und der Gründer des [Scriabin K
 Ich kann gut mit Technik umgehen und spreche viele Sprachen, darunter Englisch, Niederländisch, Deutsch und Russisch.
 
 Ausserdem bin ich ein professioneller Klavierlehrer und Pädagoge.
-Ich mag [chinesische Philosophie](/tao/) und interessiere mich generell für eine Vielzahl von Themen, über die ich manchmal in meinem Blog berichte.
+Ich mag [Philosophie](/tao/) und interessiere mich generell für eine Vielzahl von Themen, über die ich manchmal in meinem Blog berichte.
 
 ![Martin Kaptein](Martin-Kaptein-reading-artistic.jpg)
