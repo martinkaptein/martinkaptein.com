@@ -53,6 +53,7 @@ Martin Kaptein finished the general qualification for university entrance (=Abit
 - XMPP protocol (setting up servers and clients)
 - Networking (DDWRT), creating mesh wifi networks, etc.
 - Microsoft Dynamics Navision (NAV) programming experience in the context of accounting
+- Nextcloud setup and administration
 
 ## Highlights
 
