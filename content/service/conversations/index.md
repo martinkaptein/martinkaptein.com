@@ -9,8 +9,6 @@ toc: false
 cat:
   - language
   - service
-menu: main
-weight: 3
 ---
 
 # Conversations in German, Russian, English or Dutch
