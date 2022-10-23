@@ -20,7 +20,7 @@ cat:
 
 ![Martin Kaptein professional picture at piano](Martin-Kaptein-at-piano.jpg)
 
-[Media, Recordings, Pictures](https://martinkaptein.com/media/)
+[Media, Recordings, Pictures](/media/)
 
 [Download Biography and CV (pdf)](Martin_Kaptein_bio_CV_en.pdf)
 
@@ -89,7 +89,7 @@ Martin himself is also a passionate piano teacher, and sees himself as an educat
 
 - Teaching and Educating
 - Chamber music, accompanist
-- [Technology and IT](https://martinkaptein.com/tech/)
+- [Technology and IT](/tech/)
 - Literature 
 - Philosophy
 - Languages (English, Dutch, German, Russian)
