@@ -5,15 +5,18 @@ box: x=480 (y=box/2=240), used for calculations of paths
 
 stroke: box/10
 
-add stroke*2 to total width and height afterwards, mind transformation too
+add stroke*2 to total width and height afterwards, mind transformation/translate() too
 In this case:
 width becomes 576
 for square set height to the same as width, adjust coordinate system as well
 -->
 <!-- coordinate system in middle -->
 <g transform="translate(288,288)">
-<!-- remove for transparency -->
+<!-- remove rect/circle for transparency -->
+<!--
 <rect fill="#345694" x="-288" y="-288" width="576" height="576"></rect>
+-->
+<circle fill="#345694" x="0" cy="0" r="288" />
 <path d="M -240 120 -80 -120 0 0 80 -120 240 120" stroke-width="48" stroke="#ffffff"></path>
 <path d="M -80 120 -160 0" stroke-width="48" stroke="#ffffff"></path>
 <path d="M 80 120 0 0" stroke-width="48" stroke="#ffffff"></path>
