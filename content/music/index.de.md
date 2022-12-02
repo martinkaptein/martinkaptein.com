@@ -27,7 +27,7 @@ cat:
 
 Der aus den Niederlanden stammende Pianist und Musiker Martin Kaptein hat neben Musik auch die Vorliebe für Philosophie.
 
-Eines von Martins Projekten die Musik und Philosophie miteinander zu vereinigen ist der [Skrjabin Klub](https://scriabinclub.com/).
+Eines von Martins Projekten die Musik und Philosophie miteinander vereinigen ist der [Skrjabin Klub](https://scriabinclub.com/).
 Dieser Skrjabin Klub hat als Zielsetzung die Schaffung einer Gemeinschaft, in der Gespräche über Kunst und Leben stattfinden und Gleichgesinnte zusammengebracht werden.
 Zusätzlich steht das Schaffen einer Musikschule und eines Lernumfelds von höchster Qualität für Klavierunterricht und allgemeine kulturelle Bildung zentral.
 
