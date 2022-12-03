@@ -13,10 +13,10 @@ weight: -5
 metaImage: Martin-Kaptein-reading-artistic.jpg
 ---
 
-Ich bin ein professioneller Pianist und Musiker und der Gründer des [Scriabin Klubs](https://scriabinclub.com/de/).
+Ich bin ein [professioneller Pianist und Musiker](/de/music/) und der Gründer des [Scriabin Klubs](https://scriabinclub.com/de/).
 Ich kann gut mit Technik umgehen und spreche viele Sprachen, darunter Englisch, Niederländisch, Deutsch und Russisch.
 
-Ausserdem bin ich ein professioneller Klavierlehrer und Pädagoge.
+Ausserdem bin ich [ein professioneller Klavierlehrer und Pädagoge](/de/service/music-lessons-bolzano/).
 Ich mag [Philosophie](/tao/) und interessiere mich generell für eine Vielzahl von Themen, über die ich manchmal in meinem Blog berichte.
 
 ![Martin Kaptein](Martin-Kaptein-reading-artistic.jpg)
