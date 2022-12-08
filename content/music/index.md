@@ -84,6 +84,8 @@ Martin himself is also a passionate piano teacher, and sees himself as an educat
 - 2021 Fleisher Winter Academy Baltimore Piano Festival
 - 2021 11th International Piano Masterclasses, Katowice, Poland
 - 2021 Feuerwerk Piano Academy, Einbeck, Germany
+- 2022 PianoLab, Belgium
+- 2022 Online Scriabin 150 Festival in collaboration with the Scriabin Society of America
 
 ### Other experiences, interests and hobbies
 
