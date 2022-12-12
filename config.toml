@@ -28,11 +28,11 @@ disableHugoGeneratorInject = true
   siteAuthor = "Martin Kaptein"
   description = "The website and blog of Martin Kaptein."
   RobotsDisallow = ["/dev/"]
-  intro = 'Pianist, founder of <a href="https://scriabinclub.com/">Scriabin Club</a>'
 
   footerHTML = '(c) 2022 Martin Kaptein | <a href="/contact/">Contact</a>'
   strNextPage = "Older →"
   strPreviousPage = "← Newer"
+  strLinkDescriptor = "Link to homepage of Martin Kaptein."
 
 [languages]
 
@@ -47,9 +47,9 @@ weight = 2
 # possible param overwrites go here
 subHeader = 'Pianist, oprichter van de <a href="https://scriabinclub.com/">Scriabin Club</a>'
 footerHTML = '(c) 2022 Martin Kaptein | <a href="/contact/">Contact</a>'
-strNextPage = "volgende"
-strPreviousPage = "vorige"
-intro = 'Pianist, oprichter van de <a href="https://scriabinclub.com/nl/">Scriabin Club</a>'
+strNextPage = "Terug →"
+strPreviousPage = "← Vooruit"
+strLinkDescriptor = "Link naar de hoofdpagina van de website van Martin Kaptein."
 
 #[languages.nl.menu]
 #[[languages.nl.menu.main]]
@@ -66,6 +66,7 @@ weight = 3
 footerHTML = '(c) 2022 Martin Kaptein | <a href="/contact/">Kontakt</a>'
 strNextPage = "Älter →"
 strPreviousPage = "← Neuer"
+strLinkDescriptor = "Link zur Hauptseite auf der Webseite von Martin Kaptein."
 
 #[languages.ru] 
 #languageName = "Русский"
