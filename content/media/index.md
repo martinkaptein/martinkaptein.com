@@ -15,6 +15,8 @@ keywords:
   - Piano
 cat:
   - music
+  - piano
+  - media
 ---
 
 
@@ -96,11 +98,21 @@ Scriabin - Prelude opus 37 number 1
 
 ![Martin Kaptein performing Scriabin](sonata-8.jpg)
 
-[Download high resolution picture (performing Scriabin)](sonata-8.jpg)
+*Martin Kaptein performing Scriabin*
 
+[Download high resolution picture](sonata-8.jpg)
+
+![Martin Kaptein pianist hands](hands-pianist-closeup.jpg)
+
+*Martin Kaptein pianist hands*
+
+[Download high resolution](hands-pianist-closeup.jpg)
+
+<!--
 ![Martin Kaptein artistic picture in library](library.jpg)
 
-[Download high resolution (library)](library.jpg)
+[Download high resolution](library.jpg)
+-->
 
 ## More Media
 
