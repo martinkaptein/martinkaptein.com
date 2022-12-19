@@ -16,6 +16,8 @@ keywords:
   - address
 cat:
   - technology
+  - crypto
+  - introduction
 ---
 
 ## Easy Introduction to the way Cryptocurrencies work

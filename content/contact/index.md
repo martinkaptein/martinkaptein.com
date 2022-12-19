@@ -32,23 +32,19 @@ See [my public key tutorial here](/blog/using-gpg-tutorial/) for more informatio
 
 #### Social
 
-Telegram: [t.me/martinkaptein](https://t.me/martinkaptein)
+The only social network/messenger I actively use is [Session](https://getsession.org/).
+It is free, decentralized, open source and works on all devices.
 
-Instagram: [@martinkaptein](https://www.instagram.com/martinkaptein/)
-<!--
-Twitter: [@martinkaptein](https://twitter.com/martinkaptein)
--->
-
-<!--
-You can also contact me on [Session](https://getsession.org/) via this address:
-Session ([QR Code](/images/session-qr.png)):
+Session ([QR Code](session-qr.jpg)):
 
 ```
 053f7760a1ed6cb45e675e077d14930d182b17a18b7546c33f48981dd374133d59
 ```
--->
 
 ### Donate
+
+The only cryptocurrencies I use and encourage are Bitcoin and Monero.
+Read [my blog post about how crypto currencies function and why they are great](/blog/crypto-easy-introduction-2021/).
 
 Monero XMR ([QR Code](/images/xmr-qr.png)):
 
