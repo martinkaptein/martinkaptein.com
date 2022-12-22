@@ -1,12 +1,12 @@
 ---
-title: Contact
+title: Kontakt
 draft: false
-description: The contact page on the website of Martin Kaptein. Here you can contact Martin but you can also donate via PayPal and Bitcoin.
+description: Kontakt Seite und Impressum auf der Homepage von Martin Kaptein. Hier können Sie mit Martin Kaptein Kontakt aufnehmen.
 weight: 2 
 metaImage: /images/m-kaptein-avat.jpg
 menu: footer
 keywords: 
-  - contact
+  - kontakt
   - martin kaptein
   - email
   - donate
@@ -26,14 +26,12 @@ document.write('<a href="mailto:' + result + '">' + result + '</a>');
 //document.write(result);
 </script>
 
-Or [view my email address here](/images/cd.jpg).
-For maximum privacy and security you can encrypt your messages with [my public key](/pubkey.asc).
-See [my public key tutorial here](/blog/using-gpg-tutorial/) for more information on how to do that.
+Oder [sehen Sie meine Mail Adresse hier](/images/cd.jpg).
+Hierbei auch mein [PGP Schlüssel](/pubkey.asc).
 
-#### Social
+#### Alternative
 
-The only social network/messenger I actively use is [Session](https://getsession.org/).
-It is free, decentralized, open source and works on all devices.
+Auch können Sie mit mir über [Session](https://getsession.org/) Kontakt aufnehmen.
 
 Session ([QR Code](session-qr.jpg)):
 
@@ -41,10 +39,7 @@ Session ([QR Code](session-qr.jpg)):
 053f7760a1ed6cb45e675e077d14930d182b17a18b7546c33f48981dd374133d59
 ```
 
-### Donate
-
-The only cryptocurrencies I use and encourage are Bitcoin and Monero.
-Read [my blog post about how crypto currencies function and why they are great](/blog/crypto-easy-introduction-2021/).
+### Spenden
 
 Monero XMR ([QR Code](/images/xmr-qr.png)):
 
@@ -58,4 +53,4 @@ Bitcoin BTC ([QR Code](/images/btc.png)):
 bc1qreznjnv75xx8t7mlvqr0l0tez4fsrwlu6vczt7
 ```
 
-Thank you!
+Vielen Dank!

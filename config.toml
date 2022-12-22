@@ -24,12 +24,18 @@ disableHugoGeneratorInject = true
 
 # fallback settings, better for them to be defined by language
 [params]
+featuredImage = "/images/banner.jpg"
+# if no bg image set, or cannot be loaded, will fallback on bgColor
+bgImage = "/images/bg.svg"
+bgColor = "#15223B"
+logo = "/logo.svg"
+
+
+
   sitename = "Martin Kaptein"
   siteAuthor = "Martin Kaptein"
   description = "The website and blog of Martin Kaptein."
   RobotsDisallow = ["/dev/"]
-
-  footerHTML = '(c) 2022 Martin Kaptein | <a href="/contact/">Contact</a>'
   strNextPage = "Older →"
   strPreviousPage = "← Newer"
   strLinkDescriptor = "Link to homepage of Martin Kaptein."
@@ -45,8 +51,6 @@ languageName = "Nederlands"
 weight = 2
 [languages.nl.params]
 # possible param overwrites go here
-subHeader = 'Pianist, oprichter van de <a href="https://scriabinclub.com/">Scriabin Club</a>'
-footerHTML = '(c) 2022 Martin Kaptein | <a href="/contact/">Contact</a>'
 strNextPage = "Terug →"
 strPreviousPage = "← Vooruit"
 strLinkDescriptor = "Link naar de hoofdpagina van de website van Martin Kaptein."
@@ -63,7 +67,6 @@ languageName = "Deutsch"
 weight = 3
 [languages.de.params]
 ## possible param overwrites go here
-footerHTML = '(c) 2022 Martin Kaptein | <a href="/contact/">Kontakt</a>'
 strNextPage = "Älter →"
 strPreviousPage = "← Neuer"
 strLinkDescriptor = "Link zur Hauptseite auf der Webseite von Martin Kaptein."

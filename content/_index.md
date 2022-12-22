@@ -1,5 +1,6 @@
 ---
-title: Welcome on the website of Martin Kaptein
+title: Home
+menu: footer
 description: Martin Kaptein is a professional pianist and musician as well as the founder of Scriabin Club. Moreover, Martin is a professional piano teacher and educator. Martin is very good with technology and speaks a lot of languages.
 keywords:
   - Martin Kaptein
@@ -12,6 +13,8 @@ keywords:
 weight: -5
 metaImage: Martin-Kaptein-reading-artistic.jpg
 ---
+
+## Welcome on the website of Martin Kaptein
 
 I am a professional [pianist and musician](/music/) and the founder of [Scriabin Club](https://scriabinclub.com/).
 I am [good with technology](/tech/) and I speak a lot of languages including English, Dutch, German and Russian.

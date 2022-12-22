@@ -1,7 +1,7 @@
 ---
 title: Contact
 draft: false
-description: The contact page on the website of Martin Kaptein. Here you can contact Martin but you can also donate via PayPal and Bitcoin.
+description: Hier kan U met Martin Kaptein contact opnemen. Contact opnemen kan via Mail of Session. Verder kan U ook geld doneren.
 weight: 2 
 metaImage: /images/m-kaptein-avat.jpg
 menu: footer
@@ -13,9 +13,11 @@ keywords:
   - bitcoin
 ---
 
+## Contact opnemen met Martin Kaptein
+
 ![Martin Kaptein](M-Kaptein-piano-fc.jpg)
 
-#### E-Mail
+### E-mail
 
 <script>
 var domain = document.location.hostname;
@@ -26,14 +28,12 @@ document.write('<a href="mailto:' + result + '">' + result + '</a>');
 //document.write(result);
 </script>
 
-Or [view my email address here](/images/cd.jpg).
-For maximum privacy and security you can encrypt your messages with [my public key](/pubkey.asc).
-See [my public key tutorial here](/blog/using-gpg-tutorial/) for more information on how to do that.
+Als het mail adres niet verschijnt ziet U [mijn mail adres hier](/images/cd.jpg).
+Voor versleuteling en veilige communicatie kan U [mijn publieke PGP sleutel](/pubkey.asc) gebruiken.
 
-#### Social
+### Session
 
-The only social network/messenger I actively use is [Session](https://getsession.org/).
-It is free, decentralized, open source and works on all devices.
+Alternatief kan U ook via [Session](https://getsession.org/) contact opnemen.
 
 Session ([QR Code](session-qr.jpg)):
 
@@ -41,10 +41,7 @@ Session ([QR Code](session-qr.jpg)):
 053f7760a1ed6cb45e675e077d14930d182b17a18b7546c33f48981dd374133d59
 ```
 
-### Donate
-
-The only cryptocurrencies I use and encourage are Bitcoin and Monero.
-Read [my blog post about how crypto currencies function and why they are great](/blog/crypto-easy-introduction-2021/).
+### Donaties
 
 Monero XMR ([QR Code](/images/xmr-qr.png)):
 
@@ -58,4 +55,4 @@ Bitcoin BTC ([QR Code](/images/btc.png)):
 bc1qreznjnv75xx8t7mlvqr0l0tez4fsrwlu6vczt7
 ```
 
-Thank you!
+Hartelijk bedankt!
