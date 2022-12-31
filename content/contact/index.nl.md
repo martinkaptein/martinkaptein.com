@@ -31,16 +31,6 @@ document.write('<a href="mailto:' + result + '">' + result + '</a>');
 Als het mail adres niet verschijnt ziet U [mijn mail adres hier](/images/cd.jpg).
 Voor versleuteling en veilige communicatie kan U [mijn publieke PGP sleutel](/pubkey.asc) gebruiken.
 
-### Session
-
-Alternatief kan U ook via [Session](https://getsession.org/) contact opnemen.
-
-Session ([QR Code](session-qr.jpg)):
-
-```
-053f7760a1ed6cb45e675e077d14930d182b17a18b7546c33f48981dd374133d59
-```
-
 ### Donaties
 
 Monero XMR ([QR Code](/images/xmr-qr.png)):

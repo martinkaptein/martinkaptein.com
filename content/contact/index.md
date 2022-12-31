@@ -26,19 +26,15 @@ document.write('<a href="mailto:' + result + '">' + result + '</a>');
 //document.write(result);
 </script>
 
-Or [view my email address here](/images/cd.jpg).
+Since I am not using Social Media actively the best way to contact me is via E-Mail.
+If the address doesn't appear [view my email address here](/images/cd.jpg).
 For maximum privacy and security you can encrypt your messages with [my public key](/pubkey.asc).
 See [my public key tutorial here](/blog/using-gpg-tutorial/) for more information on how to do that.
 
-#### Social
-
-The only social network/messenger I actively use is [Session](https://getsession.org/).
-It is free, decentralized, open source and works on all devices.
-
-Session ([QR Code](session-qr.jpg)):
+The key fingerprint is:
 
 ```
-053f7760a1ed6cb45e675e077d14930d182b17a18b7546c33f48981dd374133d59
+F34A 4524 A3F5 5954 5692  39A6 AF84 A58F CB3A 7973
 ```
 
 ### Donate

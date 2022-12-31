@@ -29,16 +29,6 @@ document.write('<a href="mailto:' + result + '">' + result + '</a>');
 Oder [sehen Sie meine Mail Adresse hier](/images/cd.jpg).
 Hierbei auch mein [PGP Schlüssel](/pubkey.asc).
 
-#### Alternative
-
-Auch können Sie mit mir über [Session](https://getsession.org/) Kontakt aufnehmen.
-
-Session ([QR Code](session-qr.jpg)):
-
-```
-053f7760a1ed6cb45e675e077d14930d182b17a18b7546c33f48981dd374133d59
-```
-
 ### Spenden
 
 Monero XMR ([QR Code](/images/xmr-qr.png)):
