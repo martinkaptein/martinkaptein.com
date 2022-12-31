@@ -1,7 +1,7 @@
 baseURL = "https://kaptein.me"
 title = "Martin Kaptein"
 theme = "tigers"
-languageCode = "en-US"
+languageCode = "en"
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 #disableKinds = ["taxonomy", "taxonomyTerm"]
