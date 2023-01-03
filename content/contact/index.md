@@ -17,14 +17,7 @@ keywords:
 
 #### E-Mail
 
-<script>
-var domain = document.location.hostname;
-var user = "martin";
-var domain = "@" + domain;
-var result = user + domain;
-document.write('<a href="mailto:' + result + '">' + result + '</a>');
-//document.write(result);
-</script>
+<script src="/js/cd.js"></script>
 
 Since I am not using Social Media actively the best way to contact me is via E-Mail.
 If the address doesn't appear [view my email address here](/images/cd.jpg).
