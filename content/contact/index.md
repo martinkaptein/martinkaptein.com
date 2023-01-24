@@ -17,10 +17,10 @@ keywords:
 
 #### E-Mail
 
-<script src="/js/cd.js"></script>
-
 Since I am not using Social Media actively the best way to contact me is via E-Mail.
-If the address doesn't appear [view my email address here](/images/cd.jpg).
+
+[inbox@mka24.nl](mailto:inbox@mka24.nl)
+
 For maximum privacy and security you can encrypt your messages with [my public key](/pubkey.asc).
 See [my public key tutorial here](/blog/using-gpg-tutorial/) for more information on how to do that.
 

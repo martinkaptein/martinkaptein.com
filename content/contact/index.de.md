@@ -17,16 +17,8 @@ keywords:
 
 #### E-Mail
 
-<script>
-var domain = document.location.hostname;
-var user = "martin";
-var domain = "@" + domain;
-var result = user + domain;
-document.write('<a href="mailto:' + result + '">' + result + '</a>');
-//document.write(result);
-</script>
+[inbox@mka24.nl](mailto:inbox@mka24.nl)
 
-Oder [sehen Sie meine Mail Adresse hier](/images/cd.jpg).
 Hierbei auch mein [PGP Schlüssel](/pubkey.asc).
 
 ### Spenden
