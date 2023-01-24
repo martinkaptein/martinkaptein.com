@@ -23,37 +23,35 @@ keywords:
 
 [Artistieke media, foto's en video's](/media/)
 
-## Biografie Martin Kaptein
+# Martin Kaptein
 
-Martin Kaptein is een professioneel en actief uitvoerend pianist en docent, momenteel gevestigd in Nederland.
-Hij heeft een zeer breed palet aan interesses waaronder de liefde voor filosofie.
+## Biografie
 
-Momenteel werkt Martin aan projecten, die de interesses van muziek en filosofie met elkaar willen combineren:
-Een van deze projecten is de Scriabin Club, die Martin heeft opgericht.
-De Scriabin Club heeft volgende doelen:
+De uit Nederland afkomstige pianist en musicus Martin Kaptein heeft naast muziek ook een voorliefde voor filosofie.
 
-- Het creëren van een gemeenschap, waar gesprekken over Kunst en Leven plaatsvinden en gelijkgezinden bij elkaar worden gebracht.
-- Het creëren van een muziekschool en leeromgeving van de hoogste kwaliteit voor pianolessen en algemeen cultureel onderwijs.
+Een van Martins projecten die muziek en filosofie verenigen is de [Scriabin Club](https://scriabinclub.com/nl/).
+Het doel van de Scriabin Club is het creëren van een gemeenschap waar gesprekken over kunst en leven plaatsvinden en gelijkgezinden worden samengebracht.
+Daarnaast staat het creëren van een muziekschool en leeromgeving van de hoogste kwaliteit voor pianolessen en algemene culturele vorming centraal.
 
-In 2021 werd Martin uitgenodigd voor de exclusieve "Feuerwerk" Piano academie in Einbeck, Duitsland.
+Martin heeft deelgenomen aan vele pianowedstrijden en masterclasses zoals:
+In 2015 won Martin de eerste prijs op het beroemde "St. Cecilia International Piano Competition" in Porto, Portugal, waarvoor hij in de daaropvolgende jaren opnieuw werd uitgenodigd voor solorecitals.
+In 2019 won Martin met zijn trio het kamermuziekconcours van het ArtEZ Conservatorium in Zwolle.
+In 2021 werd Martin uitgenodigd voor de exclusieve "Feuerwerk" Piano Academy in Einbeck, Duitsland.
 
-Martin won in 2015 de eerste prijs in de beroemde "St. Cecilia International Piano competition" in Porto, Portugal, waarvoor hij in de opeenvolgende jaren opnieuw werd uitgenodigd voor solo-recitals.
-In 2019 won Martin samen met zijn trio het kamermuziekconcours van het ArtEZ conservatorium in Zwolle.
+Martin studeerde bij gerenommeerde musici en docenten als Mikhail Markov (RU), Elena Golovinskaya (RU), Frank van de Laar (NL), Vitaly Samoshko (UA) en Alessandra Brustia (IT).
 
-Martin studeerde bij beroemde musici en docenten, zoals Michail Markov (RU), Elena Golovinskaya (RU), Frank van de Laar (NL) en Vitaly Samoshko (UA).
+Martin is zelf ook een gepassioneerd pianoleraar en ziet zichzelf als onderwijzer in de brede zin van het woord.
 
-Martin is zelf ook een gepassioneerd pianodocent, en ziet zichzelf als een pedagoog in de ruimere zin van dit woord.
+## CV
 
-## Gedetailleerd artistiek CV
-
-### Studies en diploma's
+### Studies and Degrees
 
 - From age of 5 private piano lessons with Elena Golovinskaya.
 - 2008 to 2015 Gymnasium (general qualification for university entrance (=Abitur)) with average grade of 1,8, Missionsgymnasium St.Antonius Bardel, Germany.
 - 2015 - 2020 Bachelor Classical Music Performance Piano, ArtEZ conservatory, The Netherlands, teachers Michail Markov and Frank van de Laar.
-- 2020 - 2022 Masters of Music, Fontys conservatory Tilburg, the Netherlands, teacher Vitaly Samoshko.
+- 2020 - Masters of Music, Fontys conservatory Tilburg, the Netherlands, teacher Vitaly Samoshko.
 
-### Concoursen en prijzen
+### Competitions and Prizes
 
 - 2010 3rd prize "International Piano Competition" in Enschede, The Netherlands
 - 2012 2nd prize international EPTA competition in Belgium. 
@@ -66,7 +64,7 @@ Martin is zelf ook een gepassioneerd pianodocent, en ziet zichzelf als een pedag
 - 2019 first price chamber music competition, Zwolle, The Netherlands
 - 2020 finalist Grachtenfestival in Amsterdam, The Netherlands
 
-### Masterclasses en festivals
+### Masterclasses and Festivals
 
 - 2013 "International Music Festival" in Rhodos, Greece
 - 2014 "International Music Academy" in Cremona, Italy 
@@ -75,18 +73,9 @@ Martin is zelf ook een gepassioneerd pianodocent, en ziet zichzelf als een pedag
 - 2017 "International Music Festival" in Athens, Greece
 - 2019 Zomerfestival, Helvoirt, The Netherlands
 - 2021 Fleisher Winter Academy Baltimore Piano Festival
-- 2021 International Piano Festival Katowice, Polen
-- 2021 Feuerwerk Piano Academy, Einbeck, Duitsland
+- 2021 11th International Piano Masterclasses, Katowice, Poland
+- 2021 Feuerwerk Piano Academy, Einbeck, Germany
+- 2022 PianoLab, Belgium
+- 2022 Online Scriabin 150 Festival in collaboration with the Scriabin Society of America
 
-### Andere ervaringen, interesses en hobby's
-
-- Lesgeven
-- Kamermuziek en begeleider
-- [Technologie en ICT](/nl/technologie/)
-- Literatuur
-- Filosofie
-- Talen (Engels, Nederlands, Duits, Russisch)
-- Samenwerken
-- [Maken van foto's](https://www.instagram.com/martinkaptein/)
-
-Laatst bijgewerkt: 10 Aug 2022
+Bijgewerkt: 24 Jan 2023
