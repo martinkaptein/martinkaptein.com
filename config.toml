@@ -36,8 +36,8 @@ logo = "/logo.svg"
   siteAuthor = "Martin Kaptein"
   description = "The website and blog of Martin Kaptein."
   RobotsDisallow = ["/dev/"]
-  strNextPage = "Older →"
-  strPreviousPage = "← Newer"
+  strNextPage = "Next Page →"
+  strPreviousPage = "← Previous Page"
   strLinkDescriptor = "Link to homepage of Martin Kaptein."
 
 [languages]
@@ -51,8 +51,8 @@ languageName = "Nederlands"
 weight = 2
 [languages.nl.params]
 # possible param overwrites go here
-strNextPage = "Terug →"
-strPreviousPage = "← Vooruit"
+strNextPage = "Volgende pagina →"
+strPreviousPage = "← Vorige pagina"
 strLinkDescriptor = "Link naar de hoofdpagina van de website van Martin Kaptein."
 
 #[languages.nl.menu]
@@ -67,8 +67,8 @@ languageName = "Deutsch"
 weight = 3
 [languages.de.params]
 ## possible param overwrites go here
-strNextPage = "Älter →"
-strPreviousPage = "← Neuer"
+strNextPage = "Nächste Seite →"
+strPreviousPage = "← Vorige Seite"
 strLinkDescriptor = "Link zur Hauptseite auf der Webseite von Martin Kaptein."
 
 #[languages.ru] 
