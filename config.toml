@@ -67,14 +67,15 @@ languageName = "Deutsch"
 weight = 3
 [languages.de.params]
 ## possible param overwrites go here
-strNextPage = "Nächste Seite →"
+strNextPage = "Nächste Seite →" 
 strPreviousPage = "← Vorige Seite"
 strLinkDescriptor = "Link zur Hauptseite auf der Webseite von Martin Kaptein."
 
-#[languages.ru] 
-#languageName = "Русский"
-#[languages.ru.params]
-## possible param overwrites go here
-#footerHTML = '(c) 2022 Мартин Каптейн | <a href="/contact/">Контакт</a>'
-#strNextPage = "Старее →"
-#strPreviousPage = "← Новее"
+[languages.ru] 
+languageName = "Русский"
+[languages.ru.params]
+# possible param overwrites go here
+sitename = 'Мартин Каптейн'
+siteAuthor = 'Мартин Каптейн'
+strNextPage = "Следующая страница →"
+strPreviousPage = "← Предыдущая страница"
