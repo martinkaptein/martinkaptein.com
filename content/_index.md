@@ -22,5 +22,5 @@ He is [good with technology](/tech/) and [speaks a lot of languages](/service/co
 Moreover, Martin is a professional piano teacher and educator.
 He likes [philosophy](/tao/) and is generally interested in a wide variety of topics, which he sometimes writes about [in his blog](/blog/).
 
-<img style="display:inline-block; margin-right: 2em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
-<img style="display:inline-block; margin-right: 2em; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
+<img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
+<img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />

@@ -23,5 +23,5 @@ Hij kan [goed met technologie](/nl/technologie/) omgaan en spreekt veel talen, w
 Bovendien is Martin een professionele pianoleraar en [pedagoog](/nl/service/theory/).
 Hij houdt van [filosofie](/tao/) en is in het algemeen geïnteresseerd in een grote hoeveelheid onderwerpen, waarover hij soms schrijft [in zijn blog](/blog/).
 
-<img style="display:inline-block; margin-right: 2em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
-<img style="display:inline-block; margin-right: 2em; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
+<img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
+<img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />

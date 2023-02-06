@@ -22,5 +22,5 @@ Er kann gut mit Technik umgehen und spricht viele Sprachen, darunter Englisch, N
 Außerdem ist Martin ein professioneller [Klavierlehrer](/de/service/music-lessons-bolzano/) und Ausbilder.
 Er mag [Philosophie](/tao/) und interessiert sich generell für eine Vielzahl von Themen, über die er manchmal [in seinem Blog](/blog/) schreibt.
 
-<img style="display:inline-block; margin-right: 2em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
-<img style="display:inline-block; margin-right: 2em; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
+<img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
+<img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
