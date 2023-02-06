@@ -13,13 +13,13 @@ metaImage: Martin-Kaptein-reading-artistic.jpg
 ---
 
 
-<h2 id="-">Добро пожаловать на сайт Мартина Каптейна</h2>
-<div style="display: flex; align-items: center; justify-content: center">
-<img src="/images/martin-kaptein-profile.jpg" alt="Мартин Каптейн." style="vertical-align:middle; border-radius: 50%; display: block; margin-right: auto; width: 25%;" width="200" height="200"/>
-<p style="padding-left: 1em;">Я профессиональный <a href="/music/">пианист и музыкант</a> и основатель <a href="https://scriabinclub.com/ru/">Скрябинского клуба</a>.
-Я <a href="/tech/">хорошо разбираюсь в технике</a> и говорю на многих языках, включая русский, английский, голландский и немецкий.<br/></br>
-Кроме того, я профессиональный преподаватель фортепиано и педагог.
-Я люблю <a href="/tao/">философию</a> и вообще интересуюсь самыми разными темами, о чем иногда пишу <a href="/blog/">в своем блоге</a>.</p>
-</div>
-<img src="/images/hands-pianist-closeup-horizontal.jpg" alt="Руки Мартина Каптейна" width="1000" height="391"/>
+## Добро пожаловать на сайт Мартина Каптейна
 
+Мартин Каптейн - профессиональный [пианист и музыкант](/music/) и основатель [Скрябинского клуба](https://scriabinclub.com/ru/).
+Он хорошо разбирается в технике и говорит на многих языках, включая английский, голландский, немецкий и русский.
+
+Кроме того, Мартин - профессиональный преподаватель фортепиано и педагог.
+Он любит [философию](/tao/) и вообще интересуется самыми разными темами, о чем иногда пишет [в своем блоге](/blog/).
+
+<img style="display:inline-block; margin-right: 2em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
+<img style="display:inline-block; margin-right: 2em; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
