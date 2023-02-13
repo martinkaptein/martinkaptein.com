@@ -1,45 +1,46 @@
 ---
-title: "Klavierunterricht in Bozen"
+title: "Klavierunterricht in Südtirol"
 date: 2022-11-29T15:39:38+01:00
 draft: false
-description: "Ich biete professionellen Klavier- und Musiktheorieunterricht in der Umgebung von Bozen, Meran, Brixen und Trient an. Mein Unterricht ist für Menschen jeden Alters, jeden Niveaus und jeder Vorbildung geeignet."
+description: "Martin Kaptein bietet professionellen Klavier- und Musiktheorieunterricht in der Umgebung von Bozen, Meran, Brixen und Trient an. Sein Unterricht ist für Menschen jeden Alters, jeden Niveaus und jeder Vorbildung geeignet."
 metaImage: "/images/page/piano-lessons-with-martin-1.jpg" 
 cat:
   - Musik
   - Dienst
   - Klavier
 ---
-## Professioneller Klavier- und Musikunterricht in der Region Bozen und Meran
+
+## Professioneller Klavier- und Musikunterricht in der Region Bozen und Meran in Südtirol
 
 Die Beherrschung des Klavierspiels ist eine sehr wichtige und nützliche Fähigkeit.
-Ich biete Klavierunterricht zu Hause in der Region Bozen, Meran, Brixen und Trient (Italien) an.
+Martin Kaptein bietet Klavierunterricht zu Hause in der Region Bozen, Meran, Brixen und Trient (Italien) an.
 
 Der Klavierunterricht ist für Schüler aller Altersgruppen und Niveaus gedacht.
-Ich bin sehr erfahren im Unterrichten von Kindern, Konservatoriumsstudenten und Menschen, die einfach für sich selbst Klavier lernen wollen.
-Für den Klavierunterricht besuche ich Sie zu Hause.
+Martin ist sehr erfahren im Unterrichten von Kindern, Konservatoriumsstudenten und Menschen, die einfach für sich selbst Klavier lernen wollen.
+Für den Klavierunterricht besucht Martin Sie zu Hause.
+In der Zukunft gibt es Pläne um ein Musikstudio in Merano oder Bozen zu organisieren.
 
-Neben dem Klavierunterricht unterrichte ich auch Musiktheorie.
+Neben dem Klavierunterricht unterrichtet Martin auch Musiktheorie.
 Dies beinhaltet, ist aber nicht beschränkt auf:
 
 - Grundlegende Musiktheorie zur Vorbereitung auf Prüfungen.
 - Geschichte der Musik.
 - Solfeggio, Gehörbildung und Singen.
 
-Derzeit unterrichte ich in den folgenden Sprachen:
+Derzeit unterrichtet Martin in den folgenden Sprachen:
 
 - Deutsch
 - Englisch
 - Niederländisch
 - Russisch
-
-Es besteht die Möglichkeit, auch in Italienisch zu unterrichten, aber diese Sprache lerne ich gerade.
+- Italienisch
 
 ### Unterrichtsphilosophie
 
-Meine Unterrichtsphilosophie ist, dass die **Musik immer an erster Stelle steht**.
+Martins Unterrichtsphilosophie ist, dass die **Musik immer an erster Stelle steht**.
 Deshalb ist es sehr wichtig, einen individuellen Zugang und eine persönliche Beziehung zur Musik zu entwickeln.
 
-Gleichzeitig pflege ich eine hohe Qualität der Professionalität, die schnell zu Ergebnissen führen kann.
+Gleichzeitig pflegt Martin eine hohe Qualität der Professionalität, die schnell zu Ergebnissen führen kann.
 
 ## Über mich
 
@@ -60,7 +61,7 @@ Ursprünglich komme ich aus den Niederlanden, habe aber beschlossen, mich jetzt 
 Für jede Unterrichtsstunde verlange ich EUR 50,00.
 Wenn ein erheblicher Reiseaufwand besteht, verlange ich zusätzlich eine Reisekostenpauschale.
 
-Normalerweise wird das Honorar nach jeder Unterrichtsstunde bezahlt, aber es können auch Vereinbarungen für eine Reihe von Unterrichtsstunden (10 Lektionen) oder eine monatliche Gebühr getroffen werden.
+Normalerweise wird das Honorar nach jeder Unterrichtsstunde bezahlt, aber es können auch Vereinbarungen für eine Reihe von Unterrichtsstunden (zum Beispiel 10 Lektionen) oder eine monatliche Gebühr getroffen werden.
 In diesem Fall gibt es Möglichkeiten für Rabatte.
 
 Es ist auch möglich, mehrere Schüler gleichzeitig zu unterrichten.
@@ -70,7 +71,7 @@ Auch in diesem Fall bin ich offen, etwas mit Ihnen zu vereinbaren.
 
 Sie können mich per Mail kontaktieren:
 
-![Kontakt E-Mail](/images/cd.jpg)
+[inbox@mka24.nl](mailto:inbox@mka24.nl)
 
 Alternativ können Sie mich auch anrufen oder mich per WhatsApp kontaktieren.
 
