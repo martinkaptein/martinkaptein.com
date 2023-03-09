@@ -25,7 +25,7 @@ Voor versleuteling en veilige communicatie kan U [mijn publieke PGP sleutel](/pu
 
 ## Sociale media
 
-[Facebook](https://www.facebook.com/martinkaptein/), [Instagram](https://www.instagram.com/martinkaptein/), [Telegram](https://t.me/martinkaptein), [YouTube](https://www.youtube.com/@martinkaptein): **@martinkaptein**
+[Instagram](https://www.instagram.com/martinkaptein/), [Telegram](https://t.me/martinkaptein), [Twitter](https://twitter.com/MartinKaptein), [YouTube](https://www.youtube.com/@martinkaptein): **@martinkaptein**
 
 ### Donaties
 
