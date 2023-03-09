@@ -4,7 +4,7 @@ draft: false
 description: "Martin Kaptein is a pianist and musician who is currently studying in Tilburg, The Netherlands. Martin participates often in competitions, masterclasses and festivals. Martin is also a professional piano teacher."
 slug: music
 menu: main
-weight: -2
+weight: -4
 keywords:
   - Martin Kaptein
   - Pianist

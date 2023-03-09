@@ -13,27 +13,19 @@ keywords:
   - bitcoin
 ---
 
-![Martin Kaptein](M-Kaptein-piano-fc.jpg)
+<img alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="200" height="200"/>
 
-#### E-Mail
+## E-Mail
 
-Since I am not using Social Media actively the best way to contact me is via E-Mail.
+[inbox@mka24.nl](mailto:inbox@mka24.nl) ([public key](/pubkey.asc)).
 
-[inbox@mka24.nl](mailto:inbox@mka24.nl)
+## Social
 
-For maximum privacy and security you can encrypt your messages with [my public key](/pubkey.asc).
-See [my public key tutorial here](/blog/using-gpg-tutorial/) for more information on how to do that.
+[Facebook](https://www.facebook.com/martinkaptein/), [Instagram](https://www.instagram.com/martinkaptein/), [Telegram](https://t.me/martinkaptein), [YouTube](https://www.youtube.com/@martinkaptein): **@martinkaptein**
 
-The key fingerprint is:
+## Donate
 
-```
-F34A 4524 A3F5 5954 5692  39A6 AF84 A58F CB3A 7973
-```
-
-### Donate
-
-The only cryptocurrencies I use and encourage are Bitcoin and Monero.
-Read [my blog post about how crypto currencies function and why they are great](/blog/crypto-easy-introduction-2021/).
+### Crypto currencies
 
 Monero XMR ([QR Code](/images/xmr-qr.png)):
 
@@ -46,5 +38,3 @@ Bitcoin BTC ([QR Code](/images/btc.png)):
 ```
 bc1qreznjnv75xx8t7mlvqr0l0tez4fsrwlu6vczt7
 ```
-
-Thank you!

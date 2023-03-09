@@ -21,6 +21,10 @@ keywords:
 
 Hierbei auch mein [PGP Schlüssel](/pubkey.asc).
 
+## Soziale Netzwerke
+
+[Facebook](https://www.facebook.com/martinkaptein/), [Instagram](https://www.instagram.com/martinkaptein/), [Telegram](https://t.me/martinkaptein), [YouTube](https://www.youtube.com/@martinkaptein): **@martinkaptein**
+
 ### Spenden
 
 Monero XMR ([QR Code](/images/xmr-qr.png)):
