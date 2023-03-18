@@ -19,7 +19,7 @@ keywords:
 
 ### E-mail
 
-[inbox@mka24.nl](mailto:inbox@mka24.nl)
+[martin@martinkaptein.com](mailto:martin@martinkaptein.com)
 
 Voor versleuteling en veilige communicatie kan U [mijn publieke PGP sleutel](/pubkey.asc) gebruiken.
 

@@ -17,7 +17,7 @@ keywords:
 
 ## E-Mail
 
-[inbox@mka24.nl](mailto:inbox@mka24.nl) ([public key](/pubkey.asc)).
+[martin@martinkaptein.com](mailto:martin@martinkaptein.com) ([public key](/pubkey.asc)).
 
 ## Social
 

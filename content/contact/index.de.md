@@ -17,7 +17,7 @@ keywords:
 
 #### E-Mail
 
-[inbox@mka24.nl](mailto:inbox@mka24.nl)
+[martin@martinkaptein.com](mailto:martin@martinkaptein.com)
 
 Hierbei auch mein [PGP Schlüssel](/pubkey.asc).
 
