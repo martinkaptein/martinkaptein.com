@@ -18,13 +18,12 @@ metaImage: Martin-Kaptein-reading-artistic.jpg
 
 ### Professional classical pianist, music teacher and lecturer
 
-> "...he approaches music as a means of exploring the deepest questions of human existence..."
+> "...Martin approaches music as a means of exploring the deepest questions of human existence..."
 
 <img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
 <img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
 
-Martin Kaptein is a professional [pianist and musician](/music/) and the founder of [Scriabin Club](https://scriabinclub.com/).
-He is [good with technology](/tech/) and [speaks a lot of languages](/service/conversations/) including English, Dutch, German, Russian and Italian.
+Martin Kaptein is a professional [classical pianist](/music/), music teacher and lecturer.
+He has a deep curiosity about the world that includes the passion for [philosophy](/tao/), the interest for [technology/IT](/tech/) and the knowledge of many languages and cultures.
 
-Moreover, Martin is a professional piano teacher and music theory educator.
-He likes [philosophy](/tao/) and is generally interested in a wide variety of topics, which he sometimes writes about [in his blog](/blog/).
+Martin has also founded the [Scriabin Club](https://scriabinclub.com/), a place where conversations about Art and Life are taking place.

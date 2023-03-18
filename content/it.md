@@ -11,9 +11,9 @@ keywords:
   - IT
   - CV
   - Programming
-menu: main
+#menu: main
 metaImage: /images/martin-kaptein-main-2.jpg
-weight: -1
+#weight: -1
 slug: tech
 cat:
   - technology

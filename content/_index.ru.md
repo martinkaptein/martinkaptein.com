@@ -14,9 +14,9 @@ metaImage: Martin-Kaptein-reading-artistic.jpg
 
 ## Добро пожаловать на сайт Мартина Каптейна
 
-### Профессиональный классический пианист, преподаватель музыки и лектор.
+### Профессиональный пианист, преподаватель музыки и лектор.
 
-> "...он подходит к музыке как к способу исследования глубочайших вопросов человеческого существования..."
+> "...Мартин подходит к музыке как к способу исследования глубочайших вопросов человеческого существования..."
 
 <img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
 <img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
