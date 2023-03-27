@@ -1,7 +1,7 @@
 ---
 title: "Books"
 draft: false
-description: "Right here"
+description: "Martin Kaptein is a person interested in a wide variety of things. On this page you can explore the books that he recommends, spanning various topics and fields such as Religion, Philosophy, Music, Literature and Science."
 metaImage: "trinity.jpg" 
 toc: true
 cat:
