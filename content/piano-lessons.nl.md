@@ -1,7 +1,7 @@
 ---
 title: "Pianoles"
 date: 2020-09-29T19:43:10+02:00
-draft: false
+draft: true
 description: "Piano lessen klassieke muziek in de regio's Den Bosch, Vught en Tilburg met Martin Kaptein. Voor alle leeftijden en niveaus."
 slug: piano-lessen
 menu: main
