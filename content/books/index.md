@@ -40,9 +40,8 @@ I addition to these languages I have a deep interest in Chinese language and cul
 
 ![Picture of the Holy Trinity, painting by Andrey Rublev](trinity.jpg)
 
-Let me preface that I am an **Russian Orthodox Christian**.
-As such the choice of the Russian translation of the bible is the *The Synodal Translation* (*Синодальный перевод*), which is the translation into "regular" Russian from **Church Slavonic**: [Download Synodal Translation in epub format](biblia-synodal.epub), or see the [online version](https://azbyka.ru/biblia/).
-
+Let me preface that I am an **Russian Orthodox Christian** (**Русская Православная Церковь**).
+As such the choice of the Russian translation of the bible is the *The Synodal Translation* (*Синодальный перевод Библии*), which is the translation into "regular" Russian from **Church Slavonic**: [Download Synodal Translation in epub format (Russian / Русский)](biblia-synodal.epub), or see the [online version](https://azbyka.ru/biblia/).
 
 ### Philosophy
 

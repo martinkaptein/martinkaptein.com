@@ -27,9 +27,10 @@ On this page some of the experience in technology and information technology of 
 
 *Martin Kaptein*
 
-### School
+### Schools
 
 Martin Kaptein finished the general qualification for university entrance (=Abitur) in Germany (Gymnasium). Thus, he has an advanced school-leaving certificate with splendid marks.
+Martin has both a bachelor as well as a master degree, but in the field of [music](/music/).
 
 ### IT experience
 
@@ -59,8 +60,8 @@ Martin Kaptein finished the general qualification for university entrance (=Abit
 
 ### Blog
 
-Here, on his website, Martin [writes a blog](/), in which regularly dives into deeper topic, in very great detail.
-[This blog](/) is a good representation of all the (Information-)Technology skills Martin possesses.
+Here, on his website, Martin [writes a blog](/blog/), in which regularly dives into deeper topic, in very great detail.
+[This blog](/blog/) is a good representation of all the (Information-)Technology skills Martin possesses.
 
 Some examples are:
 
@@ -74,7 +75,7 @@ Some examples are:
 - [Using Hugo together with Travis CI](/blog/hugo-with-travis-ci-on-gh-pages/)
 - [How crypto works under the hood](/blog/crypto-easy-introduction-2021/)
 
-And much more! Seriously, check out [the blog](/).
+And much more! Seriously, check out [the blog](/blog/).
 
 ### Bachelor research
 

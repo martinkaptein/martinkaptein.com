@@ -1,9 +1,7 @@
 ---
 title: "Pianist"
 draft: false
-description: "Martin Kaptein is een professioneel en actief uitvoerend pianist en docent, momenteel gevestigd in Nederland. Hij heeft een zeer breed palet aan interesses waaronder de liefde voor filosofie.
-"
-slug: muziek
+description: "Martin Kaptein is een professioneel en actief uitvoerend pianist en docent, momenteel gevestigd in Nederland. Hij heeft een zeer breed palet aan interesses waaronder de liefde voor filosofie."
 menu: main
 metaImage: /images/martin-kaptein-profile.jpg
 weight: -4
