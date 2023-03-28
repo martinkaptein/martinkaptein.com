@@ -23,9 +23,9 @@ keywords:
 <img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
 <img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
 
-Martin Kaptein ist ein professioneller [Pianist und Musiker](/de/music/) und der Gründer des [Skrjabin Klubs](https://scriabinclub.com/de/).
+Martin Kaptein ist ein professioneller [Pianist und Musiker](/de/piano/) und der Gründer des [Skrjabin Klubs](https://scriabinclub.com/de/).
 Er kann gut mit Technik umgehen und spricht viele Sprachen, darunter Englisch, Niederländisch, Deutsch, Russisch und Italienisch.
 
 Außerdem ist Martin ein professioneller [Klavierlehrer](/de/service/music-lessons-bolzano/) und Ausbilder.
-Er mag [Philosophie](/tao/) und interessiert sich generell für eine Vielzahl von Themen, über die er manchmal [in seinem Blog](/blog/) schreibt.
+Er mag [Philosophie](/books/) und interessiert sich generell für eine Vielzahl von Themen, über die er manchmal [in seinem Blog](/blog/) schreibt.
 

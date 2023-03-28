@@ -2,7 +2,7 @@
 title: "Media"
 #date: 2021-04-24T12:41:47+02:00
 #lastmod: 2021-04-24T12:41:47+02:00
-draft: false
+draft: true
 metaImage: /images/art/Martin-Kaptein-recital-closeup-m.jpg
 description: "Media page on the website of Martin Kaptein. Here Martin features Videos, Recordings, Pictures and more of himself performing on the grand piano."
 keywords:

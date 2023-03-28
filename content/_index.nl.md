@@ -24,9 +24,9 @@ keywords:
 <img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
 <img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
 
-Martin Kaptein is een professionele [pianist en muzikant](/nl/muziek/) en de oprichter van de [Scriabin Club](https://scriabinclub.com/nl/).
-Hij kan [goed met technologie](/nl/technologie/) omgaan en spreekt veel talen, waaronder Engels, Nederlands, Duits en Russisch.
+Martin Kaptein is een professionele [pianist en muzikant](/nl/piano/) en de oprichter van de [Scriabin Club](https://scriabinclub.com/nl/).
+Hij kan [goed met technologie](/nl/tech/) omgaan en spreekt veel talen, waaronder Engels, Nederlands, Duits en Russisch.
 
 Bovendien is Martin een professionele pianoleraar en [pedagoog](/nl/service/theory/).
-Hij houdt van [filosofie](/tao/) en is in het algemeen geïnteresseerd in een grote hoeveelheid onderwerpen, waarover hij soms schrijft [in zijn blog](/blog/).
+Hij houdt van [filosofie](/books/) en is in het algemeen geïnteresseerd in een grote hoeveelheid onderwerpen, waarover hij soms schrijft [in zijn blog](/blog/).
 
