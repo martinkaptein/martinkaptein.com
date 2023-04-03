@@ -12,7 +12,7 @@ keywords:
   - CV
   - Programming
 #menu: main
-metaImage: /images/martin-kaptein-main-2.jpg
+metaImage: /images/martin-k-seaboard-rise.jpg
 #weight: -1
 slug: tech
 cat:
@@ -30,7 +30,7 @@ On this page some of the experience in technology and information technology of 
 ### Schools
 
 Martin Kaptein finished the general qualification for university entrance (=Abitur) in Germany (Gymnasium). Thus, he has an advanced school-leaving certificate with splendid marks.
-Martin has both a bachelor as well as a master degree, but in the field of [music](/music/).
+Martin has both a bachelor as well as a master degree, but in the field of [classical piano](/piano/).
 
 ### IT experience
 
@@ -55,6 +55,7 @@ Martin has both a bachelor as well as a master degree, but in the field of [musi
 - Networking (DDWRT), creating mesh wifi networks, etc.
 - Microsoft Dynamics Navision (NAV) programming experience in the context of accounting
 - Nextcloud setup and administration
+- Full manual Arch installation
 
 ## Highlights
 
@@ -65,6 +66,7 @@ Here, on his website, Martin [writes a blog](/blog/), in which regularly dives i
 
 Some examples are:
 
+- [Encrypted Arch Installation](/blog/arch-linux-encrypted-full-install/)
 - [Modding a FM radio to receive airband frequencies](/blog/fm-radio-mod-listen-to-airband-frequencies/)
 - [Porting Web apps to KaiOS](/blog/porting-converting-web-apps-website-to-kai-os/)
 - [Predicting from a training set in Python](/blog/machine-learning-introduction-python-scikit-learn/)
@@ -114,7 +116,7 @@ Besides all the above, I am interested in:
 
 ## Non technology related
 
-I am [a musician](/music/) and participate in various non-profit organizations.
+I am [a musician](/piano/) and participate in various non-profit organizations.
 Also, I like to read.
 
 ## Contact

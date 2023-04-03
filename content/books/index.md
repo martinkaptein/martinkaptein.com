@@ -2,7 +2,7 @@
 title: "Books"
 draft: false
 description: "Martin Kaptein is a person interested in a wide variety of things. On this page you can explore the books that he recommends, spanning various topics and fields such as Religion, Philosophy, Music, Literature and Science."
-metaImage: "trinity.jpg" 
+metaImage: "/images/library_hr_hc_min.jpg" 
 toc: true
 cat:
   - religion
@@ -43,7 +43,9 @@ I addition to these languages I have a deep interest in Chinese language and cul
 ![Picture of the Holy Trinity, painting by Andrey Rublev](trinity.jpg)
 
 Let me preface that I am an **Russian Orthodox Christian** (**Русская Православная Церковь**).
-As such the choice of the Russian translation of the bible is the *The Synodal Translation* (*Синодальный перевод Библии*), which is the translation into "regular" Russian from **Church Slavonic** ([epub](biblia-synodal.epub), [online](https://azbyka.ru/biblia/)).
+As such the choice of the Russian translation of the bible is the *The Synodal Translation* (*Синодальный перевод Библии*), which is the translation into "regular" Russian from **Church Slavonic** (**Церковнославянский**).
+
+Русский: *Библия* - Синодальный перевод ([pdf](bibliya.pdf), [doc](bibliya.doc), [fb2](bibliya.fb2), [epub](biblia-synodal.epub), [online](https://azbyka.ru/biblia/)).
 
 ### Philosophy
 
