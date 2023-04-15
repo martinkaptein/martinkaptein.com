@@ -84,4 +84,14 @@ Martin is currently based in Bolzano, Italy.
 - 2022 PianoLab, Belgium
 - 2022 Online Scriabin 150 Festival in collaboration with the Scriabin Society of America
 
+### Other experience and interests
+
+- [Languages and cultures](https://martinkaptein.com/books/) (English, German, Dutch, Russian, French, Italian and Chinese).
+- [Philosophy](https://martinkaptein.com/books/) (Christianity and Chinese Philosophy).
+- [Literature](https://martinkaptein.com/books/) (fiction and non-fiction).
+- [Technology](https://martinkaptein.com/tech/) (Programming, Open-Source projects and tutorials).
+- [Lectures](https://youtube.com/playlist?list=PLJHAmFz9mLV9GxR_I8Z4lN9T3A9A3b_bU) (Presenting, teaching and exploring).
+- [Teaching and coaching](https://martinkaptein.com/service/) (Piano and music theory lessons, language and life coaching).
+- [Performing concerts](https://martinkaptein.com/news/) (Solo recitals, chamber music concerts, lecture recitals).
+
 *Updated 29 Mar 2023*
