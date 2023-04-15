@@ -51,11 +51,10 @@ Martin is currently based in Bolzano, Italy.
 
 ### Studies and Degrees
 
-- From age of 5 student of Elena Golovinskaya.
-- 2008 to 2015 Gymnasium (general qualification for university entrance (=Abitur)) with average grade of 1,8, Missionsgymnasium St.Antonius Bardel, Germany.
-- 2015 - 2020 Bachelor Classical Music Performance Piano, ArtEZ conservatory, The Netherlands, student Michail Markov and Frank van de Laar.
-- 2020 - 2022 Masters of Music, Fontys conservatory Tilburg, the Netherlands, student of Vitaly Samoshko.
-- 2022 - Bolzano conservatory, Italy.
+- From age of 5 student of Elena Golovinskaya, private piano lessons.
+- 2008 to 2015 Gymnasium (general qualification for university entrance (*Abitur*)), average grade of 1.8, Missionsgymnasium St.Antonius Bardel, Germany.
+- 2015 - 2020 Bachelor Classical Music Performance Piano, ArtEZ conservatory, The Netherlands, student of Michail Markov and Frank van de Laar.
+- 2020 - 2022 Masters of Music, Fontys conservatory Tilburg, the Netherlands, student of Vitaly Samoshko. Graduated *cum laude*.
 
 ### Competitions and Prizes
 
