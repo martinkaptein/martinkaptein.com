@@ -27,7 +27,7 @@ disableHugoGeneratorInject = true
 featuredImage = "/images/banner.jpg"
 # if no bg image set, or cannot be loaded, will fallback on bgColor
 bgImage = "/images/bg.svg"
-bgColor = "#15223B"
+bgColor = "#091d28" #average color of orig. bg.jpg: #126283
 logo = "/logo.svg"
 
 
