@@ -1,30 +1,3 @@
----
-title: "Pianist"
-draft: false
-description: "Martin Kaptein is a professional classical pianist, music teacher and lecturer. Martin studied with renowned professors, accomplished many studies and won many competitions. Read more about Martin on this page."
-menu: main
-weight: -4
-keywords:
-  - Martin Kaptein
-  - Pianist
-  - Musician
-  - Tilburg
-  - The Netherlands
-  - Teacher
-metaImage: /images/sonata-8-sq-min.jpg
-cat:
-  - music
-  - piano
----
-
-
-<img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-reading-artistic-sq-min.jpg" width="400" height="400"/>
-<img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/sonata-8-sq-min.jpg" width="400" height="400" />
-
-[Media, Recordings, Pictures](/media/)
-
-<!-- Add below to PDF version -->
-
 # Martin Kaptein
 
 ## Biography
