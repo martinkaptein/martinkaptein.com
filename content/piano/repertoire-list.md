@@ -28,6 +28,8 @@ S.Rachmaninoff - Etude Op.39 No.2, No.5, No.8
 
 S.Rachmaninoff - Piano Concerto No.3 Op.30
 
+R.Schumann - Piano Quintet Op.44
+
 P.I.Tchaikovsky - Trio Op.50
 
 C.Franck - Violin Sonata
