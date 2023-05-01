@@ -22,6 +22,12 @@ cat:
 
 ## Videos and Recordings
 
+A.Scriabin - Sonata No.4 Op.30
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TIv2P85W5e0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Direct link to Scriabin Sonata No.4](https://www.youtube.com/watch?v=TIv2P85W5e0)
+
 Rachmaninoff Etude-Tableaux Op.39 No.5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D-19KIe39VQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
