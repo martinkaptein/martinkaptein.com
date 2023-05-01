@@ -74,7 +74,7 @@ Er is altijd flexibiliteit in ondersteuning, mocht een leerling plotseling ergen
 
 #### Talen
 
-![Les met kinderen](lesson-borodino.jpg)
+<!--![Les met kinderen](lesson-borodino.jpg)-->
 
 Een voordeel van mijn praktijk is dat ik les geef in een groot aantal talen.
 Momenteel geef ik les in het:

@@ -72,7 +72,7 @@ There is always flexibility in support, should a student suddenly need assistanc
 
 #### Languages
 
-![Lesson with kids](lesson-borodino.jpg)
+<!--![Lesson with kids](lesson-borodino.jpg)-->
 
 An advantage of my practice is that I teach in a wide variety of languages.
 Currently I teach in:
