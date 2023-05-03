@@ -27,6 +27,6 @@ keywords:
 Martin Kaptein is een professionele [pianist en muzikant](/nl/piano/) en de oprichter van de [Scriabin Club](https://scriabinclub.com/nl/).
 Hij kan [goed met technologie](/nl/tech/) omgaan en spreekt veel talen, waaronder Engels, Nederlands, Duits en Russisch.
 
-Bovendien is Martin een professionele pianoleraar en [pedagoog](/nl/service/theory/).
+Bovendien is Martin een [professionele pianoleraar en pedagoog](/nl/lessons/).
 Hij houdt van [filosofie](/books/) en is in het algemeen geïnteresseerd in een grote hoeveelheid onderwerpen, waarover hij soms schrijft [in zijn blog](/blog/).
 
