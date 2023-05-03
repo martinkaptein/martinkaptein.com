@@ -15,4 +15,4 @@ keywords:
   - Nederlands
 ---
 
-Zie de <a href="/news/" hreflang="en">Engelstalige nieuwspagina</a> voor een volledig overzicht van alle nieuws en aankondigingen over projecten, optredens, ideeën en agenda's van Martin Kaptein.
+Zie de <a href="/news/" hreflang="en">Engelstalige nieuwspagina hier</a> voor een volledig overzicht van alle nieuws en aankondigingen over projecten, optredens, ideeën en agenda's van Martin Kaptein.

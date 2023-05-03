@@ -11,7 +11,7 @@ cat:
   - news
   - music
   - philosophy
-  - lecture
+  - bolzano
 ---
 
 

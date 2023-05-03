@@ -17,11 +17,12 @@ cat:
   - piano
 ---
 
+[Artistieke media, foto's en video's](/media/)
+
+[PDF versie](bio-cv_nl.pdf)
 
 <img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-reading-artistic-sq-min.jpg" width="400" height="400"/>
 <img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/sonata-8-sq-min.jpg" width="400" height="400" />
-
-[Artistieke media, foto's en video's](/media/)
 
 <!-- Add below to PDF version -->
 

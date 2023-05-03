@@ -3,6 +3,9 @@ title: "Announcing updated YouTube channel and Social Media"
 date: 2023-03-22T10:45:07+01:00
 draft: false
 description: "Improved approach to my YouTube channel and Social Media. My YouTube channel now features more interesting and enticing content."
+cat:
+  - news
+  - music
 ---
 
 ## YouTube
