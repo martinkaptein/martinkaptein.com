@@ -1,30 +1,3 @@
----
-title: "Pianist"
-draft: false
-description: "Martin Kaptein is een professioneel en actief uitvoerend pianist en docent, momenteel gevestigd in Nederland. Hij heeft een zeer breed palet aan interesses waaronder de liefde voor filosofie."
-menu: main
-metaImage: /images/sonata-8-sq-min.jpg
-weight: -4
-keywords:
-  - Martin Kaptein
-  - Nederlands
-  - Pianist
-  - Musicus
-  - klassieke muziek
-  - Tilburg
-cat:
-  - muziek
-  - piano
----
-
-
-<img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-reading-artistic-sq-min.jpg" width="400" height="400"/>
-<img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/sonata-8-sq-min.jpg" width="400" height="400" />
-
-[Artistieke media, foto's en video's](/media/)
-
-<!-- Add below to PDF version -->
-
 # Martin Kaptein
 
 *Professionele klassieke pianist, muziekleraar en docent*
