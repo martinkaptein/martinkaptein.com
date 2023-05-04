@@ -88,7 +88,7 @@ Bovendien is Martin zeer geïnteresseerd in [wetenschap en technologie](https://
 
 - Languages (English, German, Dutch, Russian, French and Italian).
 - Founder and organizer of [the Scriabin Club](https://scriabinclub.com/)
-- [Philosophy](https://martinkaptein.com/books/) (Christianity and Chinese Philosophy).
+- [Philosophy](https://martinkaptein.com/books/) (Orthodox Christianity and Chinese Philosophy).
 - [Technology](https://martinkaptein.com/tech/) (Programming, Open-Source projects and tutorials).
 - [Lectures](https://youtube.com/playlist?list=PLJHAmFz9mLV9GxR_I8Z4lN9T3A9A3b_bU) (Presenting, teaching and exploring).
 - [Teaching and coaching](https://martinkaptein.com/lessons/) (Piano and music theory lessons, language and life coaching).
