@@ -17,7 +17,7 @@ keywords:
 
 ## E-Mail
 
-[martin@martinkaptein.com](mailto:martin@martinkaptein.com) ([public key](/pubkey.asc)).
+[mmc@sonata8.com](mailto:mmc@sonata8.com) ([public key](/pubkey.asc)).
 
 ## Social
 

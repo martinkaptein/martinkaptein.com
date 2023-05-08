@@ -19,7 +19,7 @@ keywords:
 
 ### E-mail
 
-[martin@martinkaptein.com](mailto:martin@martinkaptein.com)
+[mmc@sonata8.com](mailto:mmc@sonata8.com)
 
 Voor versleuteling en veilige communicatie kan U [mijn publieke PGP sleutel](/pubkey.asc) gebruiken.
 

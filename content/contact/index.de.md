@@ -17,7 +17,7 @@ keywords:
 
 #### E-Mail
 
-[martin@martinkaptein.com](mailto:martin@martinkaptein.com)
+[mmc@sonata8.com](mailto:mmc@sonata8.com)
 
 Hierbei auch mein [PGP Schlüssel](/pubkey.asc).
 
