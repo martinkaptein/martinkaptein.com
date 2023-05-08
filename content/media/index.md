@@ -22,7 +22,7 @@ cat:
 
 ## Videos and Recordings
 
-L.v.Beethoven - Sonata Op.28 No.15 *Pastorale"
+L.v.Beethoven - Sonata Op.28 No.15 *Pastorale*
 
 [Direct link](https://www.youtube.com/watch?v=dC1LZ6vxNIw)
 
