@@ -22,6 +22,12 @@ cat:
 
 ## Videos and Recordings
 
+L.v.Beethoven - Sonata Op.28 No.15 *Pastorale"
+
+[Direct link](https://www.youtube.com/watch?v=dC1LZ6vxNIw)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dC1LZ6vxNIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 A.Scriabin - Sonata No.4 Op.30
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TIv2P85W5e0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
