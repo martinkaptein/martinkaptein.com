@@ -132,7 +132,7 @@ De filosofie van mijn lessen is om vooral te werken aan de individualiteit van d
 
 Neem contact met mij op via E-Mail:
 
-[martin@martinkaptein.com](mailto:martin@martinkaptein.com)
+[mk@sonata8.com](mailto:mk@sonata8.com)
 
 Voel je vrij om alvast wat informatie over jezelf toe te voegen.
 
