@@ -130,7 +130,7 @@ The philosophy of my lessons is to work primarily on the individuality of the pe
 
 Contact me via E-Mail:
 
-[martin@martinkaptein.com](mailto:martin@martinkaptein.com)
+[mk@sonata8.com](mailto:mk@sonata8.com)
 
 Feel free to already include some information about yourself.
 
