@@ -17,7 +17,7 @@ keywords:
 
 ## E-Mail
 
-[mmc@sonata8.com](mailto:mmc@sonata8.com) ([public key](/pubkey.asc)).
+[mk@sonata8.com](mailto:mk@sonata8.com) ([public key](/pubkey.asc)).
 
 ## Social
 
